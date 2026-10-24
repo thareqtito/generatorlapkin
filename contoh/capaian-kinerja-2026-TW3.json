@@ -1,0 +1,2581 @@
+{
+ "app": "generator-capaian-kinerja-rendatin",
+ "versi": 1,
+ "tahun": 2026,
+ "tw": 3,
+ "umum": {
+  "tgl_pk": "2026-01-08",
+  "tgl_laporan": "2026-10-12",
+  "ttd_KPU": "Aswika Budhi Arfandy",
+  "ttd_SEK": "Suharto (Totok)"
+ },
+ "anggaran": {
+  "dipa_revisi": "8",
+  "diperbarui": true,
+  "program": [
+   {
+    "kode": "CQ",
+    "nama": "Penyelenggaraan Pemilu dalam Proses Konsolidasi Demokrasi",
+    "nama_dipa": "Penyelenggaraan Pemilihan Umum",
+    "kegiatan": [
+     {
+      "kode": "3363",
+      "nama": "Penguatan Kualitas Peraturan Perundang-Undangan",
+      "pagu": 2230000,
+      "realisasi": 506000
+     },
+     {
+      "kode": "6639",
+      "nama": "Teknis Penyelenggaraan Pemilu/Pemilihan",
+      "pagu": 3346000,
+      "realisasi": 1000000
+     },
+     {
+      "kode": "7016",
+      "nama": "Pendidikan Pemilih Pemula, Kelompok Rentan, dan Marjinal",
+      "pagu": 11320000,
+      "realisasi": 4500000
+     }
+    ]
+   },
+   {
+    "kode": "WA",
+    "nama": "Dukungan Manajemen",
+    "nama_dipa": "Dukungan Manajemen",
+    "kegiatan": [
+     {
+      "kode": "3355",
+      "nama": "Pengelolaan Keuangan",
+      "pagu": 3912205000,
+      "realisasi": 3031580465
+     },
+     {
+      "kode": "3357",
+      "nama": "Manajemen Perencanaan dan Organisasi",
+      "pagu": 1000,
+      "realisasi": 0
+     },
+     {
+      "kode": "3358",
+      "nama": "Pengelolaan Sumber Daya Manusia",
+      "pagu": 1000,
+      "realisasi": 0
+     },
+     {
+      "kode": "3360",
+      "nama": "Pelayanan Operasional Kantor dan Dukungan Sarana Prasarana",
+      "pagu": 581827000,
+      "realisasi": 429822319
+     },
+     {
+      "kode": "7018",
+      "nama": "Pendataan DPT Berkelanjutan",
+      "pagu": 5508000,
+      "realisasi": 0
+     }
+    ]
+   }
+  ],
+  "revisi": [
+   {
+    "label": "Pagu Awal",
+    "tanggal": "2025-12-01",
+    "pagu": 4321309000
+   },
+   {
+    "label": "Revisi 1",
+    "tanggal": "2025-12-24",
+    "pagu": 4285164000
+   },
+   {
+    "label": "Revisi 2",
+    "tanggal": "2026-02-02",
+    "pagu": 4285164000
+   },
+   {
+    "label": "Revisi 3",
+    "tanggal": "2026-03-27",
+    "pagu": 4671909000
+   },
+   {
+    "label": "Revisi 4",
+    "tanggal": "2026-04-08",
+    "pagu": 4671909000
+   },
+   {
+    "label": "Revisi 5",
+    "tanggal": "2026-04-17",
+    "pagu": 4545006000
+   },
+   {
+    "label": "Revisi 6",
+    "tanggal": "2026-07-03",
+    "pagu": 4545006000
+   },
+   {
+    "label": "Revisi 7",
+    "tanggal": "2026-08-06",
+    "pagu": 4516438000
+   },
+   {
+    "label": "Revisi 8",
+    "tanggal": "2026-10-05",
+    "pagu": 4516438000
+   }
+  ]
+ },
+ "rapat": {
+  "tanggal": "2026-10-07",
+  "jam": "09.00",
+  "tempat": "Rumah Pintar Pemilu (RPP) KPU Kabupaten Pacitan",
+  "peserta_KPU": [
+   "Ketua dan Anggota KPU Kabupaten Pacitan",
+   "Kepala Sub Bagian KPU Kabupaten Pacitan",
+   "Seluruh Pegawai KPU Kabupaten Pacitan"
+  ],
+  "peserta_SEK": [
+   "Ketua dan Anggota KPU Kabupaten Pacitan",
+   "Sekretaris KPU Kabupaten Pacitan",
+   "Kepala Sub Bagian KPU Kabupaten Pacitan",
+   "Seluruh Pegawai KPU Kabupaten Pacitan"
+  ],
+  "penegasan": [
+   "Mendorong tertib administrasi, hal-hal yang bersifat rutin harus dapat segera diselesaikan tanpa harus menunggu deadline, khususnya untuk kegiatan atau laporan yang dikumpulkan pada akhir tahun 2026, termasuk memastikan target untuk akhir tahun dapat segera ditetapkan dan dijalankan sebagai acuan kegiatan pada triwulan terakhir tahun anggaran 2026, termasuk sejumlah catatan pada evaluasi kinerja kali ini;",
+   "Penyiapan hardisk eksternal untuk masing-masing subbagian sebagai backup data, dan apabila memungkinkan akan disimpan dalam satu lemari khusus atau dry cabinet yang ada di Subbagian Parhumas dan SDM;",
+   "Mendorong diagendakannya rapat internal subbagian secara rutin, sebagai sarana interaksi antara komisioner dengan jajaran Subbagian, serta menetapkan target dan mengevaluasi kinerja harian, kemudian mendokumentasi dalam bentuk foto dan dipublikasi melalui media sosial KPU Kabupaten Pacitan."
+  ],
+  "diperbarui": true
+ },
+ "penutup": {
+  "kesimpulan_KPU": [
+   "Laporan Monitoring dan Capaian Kinerja KPU Kabupaten Pacitan Triwulan III Tahun 2026 merupakan wujud akuntabilitas kinerja KPU Kabupaten Pacitan dalam menjalankan tugasnya. Program dan kegiatan KPU berpegang pada tujuan, sasaran, dan program kerja yang berpedoman pada Renstra KPU dan Perjanjian Kinerja tahun 2026.",
+   "Meski hasil capaian kinerja sasaran yang telah ditetapkan secara umum ada yang belum dapat memenuhi target dan sesuai dengan rencana yang telah ditetapkan. Namun KPU Kabupaten Pacitan berkomitmen untuk terus melakukan evaluasi dan perbaikan berkelanjutan guna meningkatkan kualitas kinerja."
+  ],
+  "saran_KPU": [
+   "Agar KPU Kabupaten Pacitan kedepannya lebih meningkatkan kinerjanya baik dalam tahap perencanaan, pelaksanaan kegiatan maupun evaluasi kegiatannya."
+  ],
+  "kesimpulan_SEK": [
+   "Laporan Monitoring dan Capaian Kinerja Sekretariat KPU Kabupaten Pacitan Triwulan III Tahun 2026 merupakan wujud akuntabilitas kinerja KPU Kabupaten Pacitan dalam menjalankan tugasnya. Program dan kegiatan KPU berpegang pada tujuan, sasaran, dan program kerja yang berpedoman pada Renstra KPU dan Perjanjian Kinerja tahun 2026.",
+   "Meski hasil capaian kinerja sasaran yang telah ditetapkan secara umum ada yang belum dapat memenuhi target dan sesuai dengan rencana yang telah ditetapkan. Namun KPU Kabupaten Pacitan berkomitmen untuk terus melakukan evaluasi dan perbaikan berkelanjutan guna meningkatkan kualitas kinerja."
+  ],
+  "saran_SEK": [
+   "Agar KPU Provinsi Jawa Timur melaksanakan monitoring dan evaluasi langsung atas pelaksanaan kegiatan yang dilaporkan KPU Kabupaten/Kota."
+  ]
+ },
+ "sheet": {
+  "KPU": {
+   "sasaran": [
+    {
+     "no": "1",
+     "sasaran": "Meningkatnya kualitas layanan publik KPU Kabupaten Pacitan yang akuntabel dan mudah diakses",
+     "indikator": [
+      {
+       "indikator": "Persentase Kepuasan Layanan KPU Kabupaten Pacitan kepada Publik",
+       "target": "90%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Alur dan konsep PTSP yang memerlukan pematangan dan pengkajian serta koordinasi lebih lanjut",
+       "kegiatan": "1. Penambahan sarana dan prasarana penunjang pelayanan publik\n2. Penyampaian laporan SKM Triwulanan\n3. Koordinasi dengan Subbagian Tekhum terkait pengesahan regulasi pelayanan publik\n4. Pelaksanaan rapat koordinasi pembahasan pelayanan publik terintegrasi satu pintu\n5. Membuat jadwal piket pelayanan publik\n6. Pelaksanaan knowledge sharing penyelenggaraan PTSP\n7. Pembuatan sistem PTSP",
+       "upaya": "1. Penguatan kompetensi petugas yang mendapatkan jadwal piket\n2. Melakukan pemenuhan dan optimalisasi sarpras pendukung pelayanan publik secara berkelanjutan.",
+       "link": "1. https://s.id/skm2026pacitan\n2. https://s.id/pekppp2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI PERENCANAAN, DATA, DAN INFORMASI"
+      }
+     ]
+    },
+    {
+     "no": "2",
+     "sasaran": "Meningkatnya cakupan pendidikan pemilih bagi pemilih pemula, kelompok rentan, dan marjinal di tingkat kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Jumlah pemilih pemula, kelompok rentan, dan marjinal di tingkat Kabupaten Pacitan yang diberikan pendidikan pemilih",
+       "target": "156 orang",
+       "target_tw": "156 orang",
+       "realisasi": "1.952 orang",
+       "real_anggaran": "",
+       "kendala": "Belum menyentuh semua lapisan masyarakat maupun segmen pemilih karena minimnya anggaran",
+       "kegiatan": "1. Melakukan Sosialisasi pendidikan Pemilih kepada pemilih pemula pada masa Pengenalan Lingkungan Sekolah di SMA dan SMK se Kecamatan Pacitan\n2. Melakukan Sosialisasi pada kegiatan Pemilos/Pilketos di sekolah.\n3. Melibatkan siswa dari unsur OSIS dan MPK sebagai narasumber podcast KPU Pacitan.",
+       "upaya": "1. Meningkatkan Koordinasi dan kerjasama dengan pihak terkait untuk aktif melakukan kegiatan sosialisasi pendidikan pemilih yang berbasis non anggaran.",
+       "link": "https://docs.google.com/spreadsheets/d/1QrsouVVKIVHdT4oYxpuCzokNpT-UXwjgv_nOLNmOl8k/edit?usp=sharing",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI SOSIALISASI, PENDIDIKAN PEMILIH, PARTISIPASI MASYARAKAT, DAN SUMBER DAYA MANUSIA"
+      }
+     ]
+    },
+    {
+     "no": "3",
+     "sasaran": "Meningkatnya kapasitas SDM KPU Kabupaten Pacitan yang kompeten sesuai standar penugasan",
+     "indikator": [
+      {
+       "indikator": "Persentase pegawai KPU Kabupaten Pacitan yang kompetensinya sesuai standar penugasan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Kesadaran pegawai akan pentingnya upaya peningkatan kompetensi untuk menambah wawasan dan ketrampilan masih perlu dioptimalkan\n2. Serifikat pelatihan belum menjadi prasyarat untuk pengurusan kenaikan gaji berkala maupun kenaikan pangkat reguler.",
+       "kegiatan": "1. Mewajibkan pegawai untuk memiliki sertifikat pelatihan denagn menetapkan jumlah minimal kepemilikan setifikat maupun Jam pelatihan.\n2. Mendorong dan memotivasi pegawai untuk mengikuti pelatihan peningkatan kompetensi berbasis E-learning melalui aplikasi yang tersedia.",
+       "upaya": "1. Melakukan identifikasi terhadap pegawai yang telah melakukan pelatihan dengan menginventarisir sertifikat hasil pelatihan.\n2. Menetapkan batas minimal kepemilikan sertifikat pelatihan dan Jam Pelatihan (JP) untuk masing-masing pegawai.",
+       "link": "https://docs.google.com/spreadsheets/d/1PH_pUqNHKpvuFgBADSYh9UJV-H5HCdWQcEtdZzyS2Ro/edit",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI SOSIALISASI, PENDIDIKAN PEMILIH, PARTISIPASI MASYARAKAT, DAN SUMBER DAYA MANUSIA"
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "sasaran": "Terwujudnya dukungan sarana dan prasarana KPU Kabupaten Pacitan yang memadai dan mendukung kelancaran tugas dan fungsi",
+     "indikator": [
+      {
+       "indikator": "Persentase sarana dan prasarana KPU Kabupaten Pacitan dalam kondisi baik dan layak",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Identifikasi dan inventarisasi sarana dan prasarana kerja belum terlaksana secara maksimal",
+       "kegiatan": "Melakukan inventarisasi atas kondisi barang secara berkala melalui Kartu Inventarisasi Ruang (KIR) secara berkala",
+       "upaya": "Dilakukan Inventarisai ruang serta mengimplementasiksan Kartu Inventarisasi Ruang untuk menentukan kondisi barang/sarana prasarana kantor oleh Tim Inventarisasi dan pengelola BMN setiap triwulan",
+       "link": "https://linktr.ee/KPU_KABUPATEN_PACITAN",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI KEUANGAN, UMUM, LOGISTIK, DAN RUMAH TANGGA"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "sasaran": "Meningkatnya akuntabilitas pengelolaan keuangan dan kinerja KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase penyelesaian tindak lanjut hasil pemeriksaan BPK/APIP di KPU Kabupaten Pacitan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Tidak terdapat permasalahan dalam penyelesaian rekomendasi hasil pemeriksaan BPK, BPKP, dan APIP karena selama periode pelaporan KPU Kabupaten Pacitan belum menerima rekomendasi hasil pemeriksaan yang memerlukan tindak lanjut.",
+       "kegiatan": "Menyusun laporan Keuangan sesuai jadwal dan menyiapkan draft laporan pertanggungjawaban keuagan untuk Pelaporan berikutnya agar memudahkan penyusunan laporan dapat sesuai jadwal",
+       "upaya": "meningkatkan koordinasi antar pengelola keuangan dalam mengelola dan menyusun laporan pertanggungjawaban serta membuat jadwal koordinasi dengan pihak eksternal jika diperlukan",
+       "link": "https://e-spip.kpu.go.id/kartu_kendali",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI KEUANGAN, UMUM, LOGISTIK, DAN RUMAH TANGGA"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "sasaran": "Meningkatnya akuntabilitas kinerja KPU Kabupaten Pacitan dalam pelaksanaan SAKIP",
+     "indikator": [
+      {
+       "indikator": "Nilai implementasi SAKIP KPU Kabupaten Pacitan",
+       "target": "BB",
+       "target_tw": "BB",
+       "realisasi": "BB",
+       "real_anggaran": "",
+       "kendala": "Belum ada kendala",
+       "kegiatan": "1. Penyelesaian evaluasi SAKIP 2025\n2. Pelaksanaan moniitoring dan evaluasi kinerja secara rutin per triwulan",
+       "upaya": "1. Mendorong pemenuhan bukti dukung secara akurat dan tepat waktu\n2. menindaklanjuti rekomendasi evaluator SAKIP",
+       "link": "https://s.id/SAKIP_2025_KPUPACITAN",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI PERENCANAAN, DATA, DAN INFORMASI"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "sasaran": "Meningkatnya akuntabilitas pelaksanaan anggaran KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Nilai Capaian Indikator Kinerja Pelaksanaan Anggaran (IKPA) KPU Kabupaten Pacitan",
+       "target": "92",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Revisi anggaran berdampak pada perubahan perencanaan kegiatan dan alokasi sumber daya.\n2. Keterbatasan anggaran seiring dengan adanya kegiatan yang belum terpetakan sebelumnya dan memerlukan dukungan anggaran",
+       "kegiatan": "1. Pelaksanaan, pengaturan, dan revisi anggaran dilakukan sesuai dengan arahan KPU RI dan KPU Provinsi\n2. Koordinasi intensif dengan pimpinan terkait kebijakan penggunaan anggaran\n3. Menginventarisir setiap ajuan revisi pergeseran anggaran dari masing-masing sub bagian\n4. Melaporkan hasil revisi terupdate",
+       "upaya": "1. Melakukan pemetaan dan perencanaan kegiatan secara lebih cermat untuk mengantisipasi kegiatan yang belum terakomodasi dalam perencanaan awal\n2. Kegiatan menyesuaikan revisi terakhir",
+       "link": "https://s.id/diparkks2026kpupacitan",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI PERENCANAAN, DATA, DAN INFORMASI"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "sasaran": "Tersedianya data pemilih tingkat Kabupaten Pacitan yang valid, akurat, dan sesuai ketentuan",
+     "indikator": [
+      {
+       "indikator": "Persentase data pemilih tingkat Kabupaten Pacitan yang ditetapkan KPU Kabupaten Pacitan sesuai ketentuan yang berlaku",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Lambatnya respon operator SIDALIH pada satker lain dalam proses verifikasi data pemilih ganda, sehingga mempengaruhi kecepatan pengolahan data pemilih\n2. Penajaman anggaran yang berdampak pada pelaksanaan coktas",
+       "kegiatan": "1. Rapat koordinasi antara KPU dengan Stakeholder terkait pendataan DPT Berkelanjutan (Disdukcapil, Polres, Kodim, Rutan, dll)\n2. Dalam kegiatan Coktas dilakasanakan dengan metode sampling, dan faktual sampai ke kantor Desa/Kelurahan\n3. Melakukan update data pemilih pada aplikasi SIDALIH",
+       "upaya": "1. Meningkatkan koordinasi dan komunikasi berkala dengan stakeholder\n2. Membangun komunikasi dengan Admin/Operator Sidalih dari KPU Kab/Kota untuk memudahkan verifikasi saat ada tabrak data",
+       "link": "https://s.id/pdpb_2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI PERENCANAAN, DATA, DAN INFORMASI"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "sasaran": "Meningkatnya keterpaduan data dan sistem informasi Pemilu di KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase data dan sistem IT di KPU Kabupaten Pacitan yang terintegrasi dengan sistem KPU Provinsi dan KPU RI",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Kinerja akses sistem informasi Pemilu dan Pemilihan banyak bergantung pada kondisi server pusat, sehingga pada waktu tertentu terjadi kendala akses dan dapat mengganggu kelancaran operasional.",
+       "kegiatan": "1. Memberikan dukungan biaya operasional pada penggunaan sistem chatbot cek DPT PDPB\n2. Melakukan pemantauan terhadap akses dan operasional sistem informasi yang digunakan.",
+       "upaya": "1. Meningkatkan koordinasi dengan pengelola sistem apabila terjadi gangguan atau kendala akses.\n2. Memberi dukungan operasional pada sistem informasi",
+       "link": "https://s.id/dptpacitan",
+       "waktu": "Oktober SD. Desember",
+       "pj": "DIVISI PERENCANAAN, DATA, DAN INFORMASI"
+      }
+     ]
+    }
+   ],
+   "tw_header": 3,
+   "nama_sheet": "KPU TW III",
+   "diambil": "2026-10-23T14:19:18.699Z"
+  },
+  "SEK": {
+   "sasaran": [
+    {
+     "no": "1",
+     "sasaran": "Terlaksananya penyajian informasi produk hukum KPU kepada publik di tingkat Kabupaten Pacitan secara tepat, cepat, dan akurat",
+     "indikator": [
+      {
+       "indikator": "Persentase penyajian informasi produk hukum KPU secara tepat, cepat, dan akurat sesuai ketentuan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Tidak terdapat permasalahan dan kendala yang krusial. Penyajian informasi produk hukum KPU kepada publik di tingkat Kabupaten Pacitan telah dilaksanakan secara tepat, cepat, dan akurat sesuai dengan ketentuan yang berlaku",
+       "kegiatan": "1. Menyajikan dan menyebarluaskan informasi produk hukum KPU kepada publik melalui media informasi yang tersedia yaitu JDIH dan Medsos KPU Kab. Pacitan 2. Menyajikan informasi dan pelayanan kepada masyarakat terkait produk hukum KPU Kabupaten Pacitan dengan bahasa yang sederhana dan mudah dipahami (infografis dan flyer informasi)",
+       "upaya": "KPU Kabupaten Pacitan akan terus mempertahankan dan meningkatkan kualitas penyajian informasi produk hukum KPU kepada publik dengan melakukan pemutakhiran informasi secara berkala, memastikan setiap produk hukum yang disajikan telah melalui proses verifikasi, serta mengoptimalkan pemanfaatan media informasi yang tersedia",
+       "link": "1. https://jdih.kpu.go.id/jatim/pacitan 2. Instagram JDIH KPU Pacitan (@jdihkpu_pacitan) 3. Twiter JDIH KPU Pacitan (@JDIHKPU_PACITAN) 4. Facebook JDIH KPU Pacitan (Jdih Kpu Pacitan)",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN TEKNIS & HUKUM"
+      }
+     ]
+    },
+    {
+     "no": "2",
+     "sasaran": "Terlaksananya peningkatan pemahaman terhadap Peraturan KPU melalui penyuluhan hukum yang diterima",
+     "indikator": [
+      {
+       "indikator": "Persentase mengikuti penyuluhan hukum Peraturan KPU dengan baik",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Materi Peraturan KPU yang bersifat teknis dan menggunakan istilah hukum tertentu membutuhkan penyampaian yang sederhana agar mudah dipahami oleh peserta.",
+       "kegiatan": "Menyediakan platform digital untuk akses ulang bahan dan materi penyuluhan hukum yang relevan dengan tugas dan fungsi KPU Kabupaten Pacitan",
+       "upaya": "Menyediakan dan mengoptimalkan platform digital sebagai media penyimpanan dan akses ulang bahan serta materi penyuluhan hukum yang relevan dengan tugas dan fungsi KPU Kabupaten Pacitan, Materi disusun secara sistematis, mudah diakses, dan diperbarui secara berkala sesuai dengan perkembangan Peraturan KPU dan ketentuan peraturan perundang-undangan yang berlaku.",
+       "link": "https://s.id/arsipdigitaltekhum",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN TEKNIS & HUKUM"
+      }
+     ]
+    },
+    {
+     "no": "3",
+     "sasaran": "Terlaksananya pelaksanaan kebijakan regulasi KPU di tingkat Kabupaten Pacitan secara patuh hukum dan akuntabel",
+     "indikator": [
+      {
+       "indikator": "Persentase pelaksanaan kebijakan regulasi KPU sesuai ketentuan dan tidak menimbulkan sengketa hukum",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Secara umum tidak terdapat permasalahan yang signifikan dalam pelaksanaan kebijakan regulasi KPU di tingkat Kabupaten Pacitan. Pelaksanaan kebijakan telah dilakukan dengan berpedoman pada peraturan dan ketentuan yang berlaku serta memperhatikan prinsip kepatuhan hukum dan akuntabilitas",
+       "kegiatan": "Menyampaikan dan menginformasikan setiap perubahan atau pembaruan regulasi kepada jajaran internal yang berkaitan dengan pelaksanaan tugas",
+       "upaya": "Meningkatkan koordinasi dan konsultasi internal dalam penerapan kebijakan, serta memastikan setiap pelaksanaan kegiatan berpedoman pada ketentuan yang berlaku, apabila terdapat perubahan atau pembaruan regulasi, dilakukan penyesuaian dan pemutakhiran dalam pelaksanaan tugas.",
+       "link": "1. https://jdih.kpu.go.id/jatim/pacitan 2. Instagram JDIH KPU Pacitan (@jdihkpu_pacitan) 3. Twiter JDIH KPU Pacitan (@JDIHKPU_PACITAN) 4. Facebook JDIH KPU Pacitan (Jdih Kpu Pacitan)",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN TEKNIS & HUKUM"
+      }
+     ]
+    },
+    {
+     "no": "4",
+     "sasaran": "Terlaksananya koordinasi dan kerja sama kelembagaan KPU Kabupaten Pacitan dengan lembaga terkait dalam mendukung Pemilu dan Pemilihan di tingkat Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Jumlah lembaga di tingkat Kabupaten Pacitan yang menjalin kerja sama dengan KPU Kabupaten Pacitan dalam mendukung penyelenggaraan Pemilu dan Pemilihan",
+       "target": "3 lembaga",
+       "target_tw": "1 lembaga",
+       "realisasi": "0",
+       "real_anggaran": "",
+       "kendala": "Belum terpetakannya rencana kerjasama dengan instansi dan lembaga lain",
+       "kegiatan": "1. Menyampaikan informasi terkait progres KPU Kab/Kota yang sudah melakukan kerjasama\n2. Memasukkan dalam mapping kegiatan yang belum dilaksanakan/belum terealisasi sesuai target yang ditetapkan",
+       "upaya": "1. Memasukan dalam agenda pembahasan Rapat Pleno Rutin KPU terkait rencana kerjasama\n2. Memetakan kerja sama dengan instansi atau lembaga, tidak terbatas pada instansi tertentu saja",
+       "link": "https://s.id/moukerjasamakpupacitan",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "5",
+     "sasaran": "Terselenggaranya layanan informasi dan data publik melalui PPID KPU Kabupaten Pacitan secara cepat, akurat, dan tepat",
+     "indikator": [
+      {
+       "indikator": "Persentase permohonan informasi dan data yang ditindaklanjuti melalui PPID KPU Kabupaten Pacitan sesuai dengan ketentuan yang berlaku",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Secara umum tidak ada permasalahan dan kendala dalam hal pelayanan permohonan informasi dan data di PPID, Namun prosentase permohonan Data dan Informasi PPID sangat minim padaTriwulan III",
+       "kegiatan": "Meningkatkan kompetensi Pejabat PPID dengan mengikuti pelatihan E-Learning dan Ujian Nasional PPID",
+       "upaya": "1. Aktif mengupdate permohonan Informasi dan Data melalui aplikasi E-PPID.\n2. Aktif mengupdate Data Informasi Publik sebagai sumber Data dan Informasi PPID\n3. Menyosialisasikan pelayanan PPID lewat media sosial dan podcast",
+       "link": "https://os5.mycloud.com/action/share/21cb7686-5abf-4039-96ac-997a1bf0d9b3\nhttps://os5.mycloud.com/action/share/b98117b0-f072-4b5f-a291-1bac413ee3fe\nhttps://docs.google.com/spreadsheets/d/1U57Ze2OPH15ojvDAqKXVpaVuD9OLs9nFYwn13s3EPYg/edit?usp=sharing",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN PARHUBMAS & SDM"
+      }
+     ]
+    },
+    {
+     "no": "6",
+     "sasaran": "Terlaksananya sosialisasi pendidikan pemilih kepada masyarakat di tingkat Kabupaten Pacitan melalui media yang tersedia",
+     "indikator": [
+      {
+       "indikator": "Persentase sosialisasi pendidikan pemilih melalui media yang tersedia",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Minimnya kunjungan dan pengikut yang aktif terhadap unggahan konten sosialisasi di media sosial maupun website KPU Kabupaten Pacitan",
+       "kegiatan": "Mendorong pihak internal untuk aktif merespon dan menyosialisasikan (share) postingan media sosial dan website KPU Kabupaten Pacitan.\nTerus meningkatkan kreatifitas untuk membuat konten yang menarik untuk meningkatkan kunjungan dan respon netizen pada media sosial dan website KPU kabupaten Pacitan.",
+       "upaya": "1.) Mengoptimalkan kegiatan sosialisasi melalui media sosial dan website.\n2.) Membuat konten yang lebih kreatif , menarik dan update dengan perkembangan zaman.\n3.) Melakukan podcast tiap 2 minggu sekali sebagai salah satu bentuk sosialisasi kepada masyarakat.",
+       "link": "https://os5.mycloud.com/action/share/fa600739-18c7-4c97-8d8e-786543ef6848",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN PARHUBMAS & SDM"
+      }
+     ]
+    },
+    {
+     "no": "7",
+     "sasaran": "Terlaksananya dukungan dan pemenuhan administrasi PAW Anggota DPRD Kabupaten Pacitan sesuai ketentuan yang berlaku",
+     "indikator": [
+      {
+       "indikator": "Persentase permohonan administrasi PAW Anggota DPRD Kabupaten Pacitan yang ditindaklanjuti dan disampaikan tepat waktu kepada KPU Provinsi sesuai ketentuan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Secara umum tidak terdapat permasalahan yang signifikan dalam pelaksanaan dukungan dan pemenuhan administrasi PAW Anggota DPRD Kabupaten Pacitan. Seluruh proses administrasi dilaksanakan secara tertib, tepat waktu, dan sesuai dengan ketentuan peraturan perundang-undangan serta regulasi KPU yang berlaku, dengan didukung koordinasi dan komunikasi yang baik dengan pihak terkait.",
+       "kegiatan": "Koordinasi dengan pihak terkait, melakukan pemeriksaan kelengkapan dokumen, serta penyusunan dan penyampaian administrasi dilaksanakan sesuai dengan prosedur dan ketentuan yang berlaku.",
+       "upaya": "Meningkatkan ketelitian dalam pengelolaan administrasi PAW Anggota DPRD melalui pemutakhiran pemahaman terhadap ketentuan dan regulasi yang berlaku, pemeriksaan kelengkapan dan keabsahan dokumen secara cermat, serta penguatan koordinasi dengan pihak-pihak terkait. Selain itu juga dilakukan penataan dan pengarsipan dokumen secara sistematis",
+       "link": "1. https://s.id/arsipdigitaltekhum 2. https://simpaw.kpu.go.id/",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN TEKNIS & HUKUM"
+      }
+     ]
+    },
+    {
+     "no": "8",
+     "sasaran": "Terlaksananya kegiatan pendidikan pemilih kepada masyarakat di tingkat Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase kegiatan pendidikan pemilih yang telah dilaksanakan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Belum menyentuh semua lapisan masyarakat maupun segmen pemilih karena minimnya anggaran",
+       "kegiatan": "1. Melakukan Sosialisasi pendidikan Pemilih kepada pemilih pemula pada masa Pengenalan Lingkungan Sekolah di SMA dan SMK se Kecamatan Pacitan\n2. Melakukan Sosialisasi pada kegiatan Pemilos/Pilketos di sekolah.\n3. Melibatkan siswa dari unsur OSIS dan MPK sebagai narasumber podcast KPU Pacitan.",
+       "upaya": "1. Meningkatkan koordinasi dan kerjasama dengan pihak terkait untuk aktif melakukan kegiatan sosialisasi pendidikan pemilih yang berbasis non anggaran.",
+       "link": "https://docs.google.com/spreadsheets/d/1QrsouVVKIVHdT4oYxpuCzokNpT-UXwjgv_nOLNmOl8k/edit?usp=sharing",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN PARHUBMAS & SDM"
+      }
+     ]
+    },
+    {
+     "no": "9",
+     "sasaran": "Meningkatnya kemampuan pejabat perbendaharaan KPU Kabupaten Pacitan dalam menyelesaikan pertanggungjawaban penggunaan anggaran sesuai ketentuan",
+     "indikator": [
+      {
+       "indikator": "Persentase pejabat perbendaharaan di KPU Kabupaten Pacitan yang mampu menyelesaikan pertanggungjawaban penggunaan anggaran sesuai ketentuan yang berlaku",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Adanya perubahan kebijakan/regulasi teknis terkait sistem aplikasi keuangan (Sakti) dari pusat yang memerlukan adaptasi cepat. Hal ini berimbas pada pemeliharaan (maintenance) dan update fitur pada aplikasi SAKTI dalam waktu tertentu",
+       "kegiatan": "Selalu mengikuti bimtek yang di selenggarakan setiap bulan Bimbingan sistem akuntansi instansi (BIMTEK BIMASAKTI) dari kemenkeu",
+       "upaya": "Supervisi dan internalisasi secara berkala bagi pejabat perbendaharaan dan staf pengelola keuangan dalam pengeloaan pertanggungjawaban keuangan",
+       "link": "https://docs.google.com/spreadsheets/d/1bhPgKwfp4kiO2-UxN_HU2wHNRJiRUldPOe1_QHgMYNM/edit?gid=1826692055#gid=1826692055",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "10",
+     "sasaran": "Terlaksananya penyusunan dan penyampaian laporan sistem akuntansi dan pelaporan keuangan KPU Kabupaten Pacitan sesuai ketentuan",
+     "indikator": [
+      {
+       "indikator": "Jumlah laporan sistem akuntansi dan pelaporan keuangan KPU Kabupaten Pacitan yang disusun dan disampaikan sesuai ketentuan",
+       "target": "2 Laporan",
+       "target_tw": "9 Laporan",
+       "realisasi": "9 Laporan",
+       "real_anggaran": "",
+       "kendala": "Perlu adanya sinkronisasi tertebih dahulu antara Catatan Laporan BMN dengan Catatan Laporan Keuangan serta membutuhkan waktu untuk rekonsiliasi sampai terbentuk",
+       "kegiatan": "Menyiapakan dan menyusun draft laporan CALK dan CALBMN",
+       "upaya": "Meningkatkan koordinasi dan sinkronisasi antara pengelola keuangan dalam proses rekonsiliasi dan penyusunan laporan keuangan",
+       "link": "https://drive.google.com/drive/folders/1NwtaTtGJ8eUrbk2rXrKNgIo1xiMyef9a?usp=drive_link",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "11",
+     "sasaran": "Tersusunnya dan tersampaikannya Laporan Pertanggungjawaban Penggunaan Anggaran KPU Kabupaten Pacitan secara tepat waktu sesuai ketentuan",
+     "indikator": [
+      {
+       "indikator": "Persentase penyampaikan Laporan Pertanggungjawaban Penggunaan Anggaran dengan tepat waktu",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Tidak ada hambatan yang bersifat mendasar atau menggagalkan target, tetapi perlu konsistensi dalam penyusunan laporan yang sesuai dan pelaporan dengan tepat waktu",
+       "kegiatan": "Pengumpulan bukti dukung pertanggungjawaban setelah pelaksanaan serta adanya kontrol atas kelengkapan , ketepatan dan kecepatan bukti dukung atas pertanggungjawaban kegiatan",
+       "upaya": "Mempertahankan ketepatan dalam penyusunan laporan dan ketepatan waktu dalam penyampaian laporan serta meningkatkan koordinasi dan internalisasi secara berkala",
+       "link": "https://drive.google.com/drive/folders/1NwtaTtGJ8eUrbk2rXrKNgIo1xiMyef9a?usp=drive_link",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "12",
+     "sasaran": "Terlaksananya pembayaran gaji dan tunjangan pegawai KPU Kabupaten Pacitan secara tepat waktu sesuai ketentuan",
+     "indikator": [
+      {
+       "indikator": "Persentase penyelesaikan pembayaran gaji dan tunjangan pegawai secara tepat waktu",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Secara umum kendala dalam penggajian yaitu menunggu rekapitulasi data absensi untuk tunjangan kinerja dan uang makan\n2. KGB pegawai yang kadang tidak sesuai antara data SDM dan Aplikasi sehingga membuat keterlambatan KGB",
+       "kegiatan": "1. Koordinasi dengan pihak SDM untuk pengumpulan absensi secara tepat waktu\n2. Optimalisasi kedisiplinan pegawai dalam pengisian daftar hadir",
+       "upaya": "Meningkatkan Koordinasi dengan pihak SDM untuk manajemen kepegawaian yang berhubungan dengan gaji",
+       "link": "https://drive.google.com/drive/folders/1schN3qyvAiu7L47n37s0iMk5pP2KzwWZ",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "13",
+     "sasaran": "Terlaksananya perencanaan program dan anggaran KPU Kabupaten Pacitan yang sesuai ketentuan yang berlaku",
+     "indikator": [
+      {
+       "indikator": "Persentase perencanaan program dan kegiatan sesuai ketentuan yang berlaku",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Revisi anggaran berdampak pada perubahan perencanaan kegiatan dan alokasi sumber daya.\n2. Keterbatasan anggaran seiring dengan adanya kegiatan yang belum terpetakan sebelumnya dan memerlukan dukungan anggaran",
+       "kegiatan": "1. Pelaksanaan, pengaturan, dan revisi anggaran dilakukan sesuai dengan arahan KPU RI dan KPU Provinsi\n2. Koordinasi intensif dengan pimpinan terkait kebijakan penggunaan anggaran\n3. Menginventarisir setiap ajuan revisi pergeseran anggaran dari masing-masing sub bagian\n4. Melaporkan hasil revisi terupdate",
+       "upaya": "1. Melakukan pemetaan dan perencanaan kegiatan secara lebih cermat untuk mengantisipasi kegiatan yang belum terakomodasi dalam perencanaan awal\n2. Kegiatan menyesuaikan revisi terakhir",
+       "link": "https://s.id/diparkks2026kpupacitan",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "14",
+     "sasaran": "Terlaksananya pelaksanaan Reformasi Birokrasi di lingkungan KPU Kabupaten Pacitan sesuai pedoman yang berlaku",
+     "indikator": [
+      {
+       "indikator": "Persentase pemenuhan komponen Reformasi Birokrasi KPU Kabupaten Pacitan sesuai pedoman KPU",
+       "target": "15 Komponen",
+       "target_tw": "9 Komponen",
+       "realisasi": "9 komponen",
+       "real_anggaran": "",
+       "kendala": "1. Pelaksanaan Reformasi Birokrasi tidak ada sosialisasi secara spesifik\n2. Reformasi Birokrasi berkaitan dengan regulasi Zona Integritas dan Pelayanan Publik",
+       "kegiatan": "1. Pelaksanaan rapat koordinasi pembahasan pelayanan publik terintegrasi satu pintu\n2. Memaksimalkan penggunaan apllikasi SRIKANDI sebagai pengelolaan naskah dinas\n3. Pelaksanaan Podcast sebagai inovasi dalam penyebarluasan informasi\n4. Pembuatan tim piket , penyediaan sarana prasarana, dan pematangan konsep PTSP",
+       "upaya": "1. Meningkatkan koordinasi antar-subbagian dalam mendukung penerapan Pelayanan Terintegrasi Satu Pintu (PTSP) guna meningkatkan efektivitas dan kualitas pelayanan publik.\n2. Menindaklanjuti pedoman teknis dari KPU Provinsi terkait pemenuhan komponen Reformasi Birokrasi setelah pelaksanaan sosialisasi.",
+       "link": "https://s.id/pekppp2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "15",
+     "sasaran": "Terlaksananya penyelenggaraan pelayanan publik yang baik di lingkungan KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase pelayanan publik secara baik",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Alur dan konsep PTSP yang memerlukan pematangan dan pengkajian serta koordinasi lebih lanjut",
+       "kegiatan": "1. Penambahan sarana dan prasarana penunjang pelayanan publik\n2. Penyampaian laporan SKM Triwulanan\n3. Koordinasi dengan Subbagian Tekhum terkait pengesahan regulasi pelayanan publik\n4. Pelaksanaan rapat koordinasi pembahasan pelayanan publik terintegrasi satu pintu\n5. Membuat jadwal piket pelayanan publik\n6. Pelaksanaan knowledge sharing penyelenggaraan PTSP\n7. Pembuatan sistem PTSP",
+       "upaya": "1. Penguatan kompetensi petugas yang mendapatkan jadwal piket\n2. Melakukan pemenuhan dan optimalisasi sarpras pendukung pelayanan publik secara berkelanjutan.",
+       "link": "1. https://s.id/skm2026pacitan\n2. https://s.id/pekppp2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "16",
+     "sasaran": "Terlaksananya monitoring dan evaluasi pelaksanaan program dan anggaran KPU Kabupaten Pacitan secara akuntabel dan tepat waktu",
+     "indikator": [
+      {
+       "indikator": "Jumlah laporan monitoring dan evaluasi pelaksanaan program dan anggaran yang disusun dan disampaikan oleh KPU Kabupaten Pacitan secara akuntabel dan tepat waktu",
+       "target": "1 laporan",
+       "target_tw": "3 laporan",
+       "realisasi": "3 laporan",
+       "real_anggaran": "",
+       "kendala": "Tidak ada kendala signifikan, laporan monev tersampaikan secara rutin dan tepat waktu",
+       "kegiatan": "1. Pelaksanaan Monitoring dan Evaluasi Capaian Kinerja Triwulanan\n2. Penyusunan Laporan hasil Monitoring dan Evaluasi Capaian Kinerja per triwulan",
+       "upaya": "Meningkatkan koordinasi dan komunikasi dengan unit kerja dalam penyampaian data dukung secara tepat waktu dan akurat",
+       "link": "https://s.id/elapkin2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "17",
+     "sasaran": "Meningkatnya tertib administrasi dan pengelolaan SDM melalui pemberian layanan administrasi kepegawaian yang tepat waktu di lingkungan KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase pegawai di KPU Kabupaten Pacitan yang mendapatkan layanan administrasi kepegawaian secara tepat waktu",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Penguatan pemahaman serta implementasi hak dan kewajiban pegawai masih perlu terus dioptimalkan.\n2. Kendala perangkat dan sistem perlu terus ditingkatkan untuk meminimalkan gangguan operasional akibat kendala teknis maupun pemeliharaan (maintenance).",
+       "kegiatan": "1. Melakukan Update data kepegawaian secara berkala.\n2. Melakukan digitalisasi data kepegawaian untuk memudahkan pelayanan urusan kepegawaian.",
+       "upaya": "1) Melakukan update data pegawai secara mandiri dan berkala.\n2) Melakukan monitoring dan evaluasi kelengkapan arsip pegawai secara berkala.\n3) Menerapkan reward untuk pegawai berprestasi dan punshment kepada pegawai yang melanggar perintah/aturan.",
+       "link": "https://drive.google.com/drive/u/7/folders/1MNZ2GZH31lPLEw4SV9XHL_cypZ-ea_FH",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN PARHUBMAS & SDM"
+      }
+     ]
+    },
+    {
+     "no": "18",
+     "sasaran": "Tersedianya dokumen kepegawaian pegawai KPU Kabupaten Pacitan yang valid dan update",
+     "indikator": [
+      {
+       "indikator": "Persentase dokumen kepegawaian pegawai KPU Kabupaten Pacitan yang disediakan secara valid dan update",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Aplikasi data kepegawaian masih belum terintegrasi sehingga masih memerlukan update manual.",
+       "kegiatan": "Melakukan pemutakhiran data pegawai secara berkala secara terorganisir oleh operator kepegawaian maupun masing-masing pegawai secara mandiri.",
+       "upaya": "1) Mendorong pegawai untuk melakukan update data kepegawaian di aplikasi masing2 secara berkala.\n2) Melakukan verifikasi dan sinkronisasi data kepegawaian.",
+       "link": "https://drive.google.com/drive/u/7/folders/1MNZ2GZH31lPLEw4SV9XHL_cypZ-ea_FH",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN PARHUBMAS & SDM"
+      }
+     ]
+    },
+    {
+     "no": "19",
+     "sasaran": "Terlaksananya dukungan sarana dan prasarana kerja KPU Kabupaten Pacitan yang baik dan memadai sesuai standar",
+     "indikator": [
+      {
+       "indikator": "Persentase kualitas penyediaan dukungan sarana kerja KPU Kabupaten Pacitan yang baik dan memadai",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Identifikasi dan inventarisasi sarana dan prasarana kerja belum terlaksana secara maksimal",
+       "kegiatan": "Melakukan inventarisasi atas kondisi barang secara berkala melalui Kartu Inventarisasi Ruang (KIR) secara berkala",
+       "upaya": "Dilakukan Inventarisai ruang serta mengimplementasiksan Kartu Inventarisasi Ruang untuk menentukan kondisi barang/sarana prasarana kantor oleh Tim Inventarisasi dan pengelola BMN setiap triwulan",
+       "link": "https://linktr.ee/KPU_KABUPATEN_PACITAN",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "20",
+     "sasaran": "Terlaksananya dukungan sarana dan prasarana kerja melalui pembangunan dan/atau renovasi gedung dan gudang kantor KPU Kabupaten Pacitan yang tepat waktu dan berdaya manfaat",
+     "indikator": [
+      {
+       "indikator": "Persentase gedung dan gudang kantor KPU Kabupaten Pacitan yang dibangun atau direnovasi dengan tepat waktu dan berdaya manfaat secara layak dan memadai",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Terdapat sarana berupa ruang kerja yang mengalami penurunan nilai manfaat/rusak sehingga perlu adanya perbaikan",
+       "kegiatan": "Melakukan rehab gedung dan bangunan Kantor dan melakukan pemeliharaan secara berkala sesuaai dengan kondisi kerusakan",
+       "upaya": "Telah dilaksanakan rehab dan pemeliharaan dengan memaksimalkan pagu anggaran yang tersedia secara efisien",
+       "link": "https://drive.google.com/drive/folders/1lZwA_u3blJ9U2SBZXFheiXp7_9Qf4c5H?usp=drive_link",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "21",
+     "sasaran": "Meningkatnya kualitas layanan perkantoran KPU Kabupaten Pacitan sesuai kebutuhan kerja",
+     "indikator": [
+      {
+       "indikator": "Persentase kualitas layanan perkantoran KPU Kabupaten Pacitan yang memenuhi kebutuhan kerja",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Adanya fluktuasi harga kebutuhan barang layanan yang tidak stabil dan kebutuhan yang belum sesuai peruntukan",
+       "kegiatan": "Melakukan inventarisasi dan klasifikasi atas kebutuhan barang yang lebih prioritas untuk peningkatan pelayanan perkantoran",
+       "upaya": "Melakukan efisiensi penggunaan anggaran operasional dan optimalisasi perawatan sarana prasarana.",
+       "link": "",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "22",
+     "sasaran": "Meningkatnya kualitas tata kelola administrasi persuratan dan pengelolaan arsip KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase kualitas tata kelola administrasi persuratan dan pengelolaan arsip KPU Kabupaten Pacitan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Aplikasi srikandi sering terjadi trouble\n2. Sistem penomoran dibuku agenda dengan di aplikasi srikandi terkadang masih berbeda",
+       "kegiatan": "1. Menjalankan aplikasi srikandi dengan konsisten\n2. Menyusun SOP Alur surat keluar masuk berbasis Srikandi",
+       "upaya": "1, Melakukan update aplikasi srikandi\n2. Meningkatkan pemahaman terkait mekanisme kearsipan di lingkungan KPU Kabupaten Pacitan",
+       "link": "https://linktr.ee/arsipkpupacitan66",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "23",
+     "sasaran": "Meningkatnya kualitas layanan persidangan dan protokol KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase kualitas layanan persidangan dan protokol KPU Kabupaten Pacitan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Belum ada pelatihan khusus untuk keprotokolan\nTerbatasnya pemahaman petugas keprotokolan terkait regulasi dan praktik keprotokolan",
+       "kegiatan": "Menunjuk personal sebagai tim keprotokolan untuk menggali pemahaman tentang regulasi dan tata cara keprotokolan secara mandiri",
+       "upaya": "Meningkatkan kualitas pelatihan khusus keprotokolan\nPendampingan dan pengarahan lebih lanjut terkait petugas dan mekanisme keprotokolan di KPU Kabupaten Pacitan",
+       "link": "",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "24",
+     "sasaran": "Terlaksananya keamanan dan ketertiban yang memberikan rasa aman dan nyaman bagi Pegawai KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase kualitas layanan pemberian keamanan dan ketertiban bagi Pegawai KPU Kabupaten Pacitan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Tidak ada hambatan yang mengganggu jalannya fungsi keamanan tetapi perlu adanya peningkatan fungsi kontrol terhadap arus tamu masuk dan keluar",
+       "kegiatan": "Melakukan mitigasi terhadap keamanan kantor dan melakukan evaluasi secara berkala kepada petugas atas pelaksanaan pengamanan kantor",
+       "upaya": "Melakukan peningkatan frekuensi patroli terjadwal serta penambahan alat sarana dan prasarana alat kontrol pengamanan berupa palang pagar/portal untuk arus keluar masuk pegawai dan tamu",
+       "link": "https://docs.google.com/forms/d/e/1FAIpQLSchpy4X0CJs5pgwABGaO8FmYY8yh7sl1peltyA1QVDU6TzaMw/viewform",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "25",
+     "sasaran": "Terlaksananya penyelenggaraan pemerintahan yang bersih dan berwibawa di KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase jumlah pengaduan masyarakat pada KPU Kabupaten Pacitan yang ditindaklanjuti",
+       "target": "80%",
+       "target_tw": "70%",
+       "realisasi": "70%",
+       "real_anggaran": "",
+       "kendala": "Dalam periode pelaporan, tidak terdapat pengaduan masyarakat yang diterima oleh KPU Kabupaten Pacitan (nihil). Dengan demikian, tidak terdapat permasalahan maupun kendala dalam pelaksanaan tindak lanjut pengaduan masyarakat.",
+       "kegiatan": "KPU Kabupaten Pacitan telah memfasilitasi penyampaian pengaduan masyarakat melalui platform digital yang tersedia sebagai bentuk keterbukaan dan kemudahan akses pelayanan publik serta melakukan serta melakukan pemantauan secara berkala terhadap pengaduan yang masuk.",
+       "upaya": "Meningkatkan optimalisasi layanan pengaduan masyarakat dengan memastikan kanal pengaduan melalui platform digital tetap tersedia, mudah diakses, dan berfungsi dengan baik. Selain itu, dilakukan pemantauan secara berkala terhadap kanal pengaduan, penyampaian informasi kepada masyarakat mengenai mekanisme dan media penyampaian pengaduan, serta peningkatan koordinasi internal agar setiap pengaduan yang diterima dapat segera diverifikasi dan ditindaklanjuti sesuai dengan ketentuan yang berlaku.",
+       "link": "s.id/pengaduan_kpupacitan",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN TEKNIS & HUKUM"
+      }
+     ]
+    },
+    {
+     "no": "26",
+     "sasaran": "Meningkatnya tindak lanjut hasil pengawasan di lingkungan KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase penyelesaian rekomendasi BPK, BPKP, dan APIP pada KPU Kabupaten Pacitan yang ditindaklanjuti",
+       "target": "79%",
+       "target_tw": "70%",
+       "realisasi": "70%",
+       "real_anggaran": "",
+       "kendala": "Tidak terdapat permasalahan dalam penyelesaian rekomendasi hasil pemeriksaan BPK, BPKP, dan APIP karena selama periode pelaporan KPU Kabupaten Pacitan belum menerima rekomendasi hasil pemeriksaan yang memerlukan tindak lanjut.",
+       "kegiatan": "Pengarsipan dan dokumentasi hasil evaluasi akuntabilitas kinerja (LHE) secara tertib dan terdigitalisasi melalui laporan SPIP",
+       "upaya": "KPU Kabupaten Pacitan tetap melakukan penguatan pengendalian internal, pengelolaan administrasi, dan kepatuhan terhadap peraturan perundang-undangan sebagai upaya menjaga tata kelola yang akuntabel.",
+       "link": "https://e-spip.kpu.go.id/kartu_kendali",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN TEKNIS & HUKUM"
+      }
+     ]
+    },
+    {
+     "no": "27",
+     "sasaran": "Meningkatnya kualitas pengelolaan dan pertanggungjawaban keuangan KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase laporan keuangan KPU Kabupaten Pacitan yang disusun sesuai SAP dan bebas dari kesalahan material",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Penyusunan Laporan pertanggungjawaban keuangan diminta lebih awal dari deadline akhir yang ditetapkan sehingga terkadang kurang cukup waktu apabila memerlukan koordinsi dengan pihak eksternal (KPPN dan KPU Provinsi)",
+       "kegiatan": "Menyusun laporan Keuangan sesuai jadwal dan menyiapkan draft laporan pertanggungjawaban keuagan untuk Pelaporan berikutnya agar memudahkan penyusunan laporan dapat sesuai jadwal",
+       "upaya": "meningkatkan koordinasi antar pengelola keuangan dalam mengelola dan menyusun laporan pertanggungjawaban serta membuat jadwal koordinasi dengan pihak eksternal jika diperlukan",
+       "link": "https://drive.google.com/drive/folders/1NwtaTtGJ8eUrbk2rXrKNgIo1xiMyef9a?usp=drive_link",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "28",
+     "sasaran": "Meningkatnya efektivitas penerapan Sistem Pengendalian Intern Pemerintah pada KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Nilai Maturitas SPIP KPU Kabupaten Pacitan",
+       "target": "77",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Dalam pelaksanaan SPIP di KPU Kabupaten Pacitan, tidak terdapat permasalahan dan kendala yang berarti. Penerapan pengendalian internal telah dilaksanakan sesuai dengan ketentuan yang berlaku. Pemenuhan dokumen dan bukti dukung dilakukan secara tertib, disertai monitoring dan evaluasi serta koordinasi secara berkala untuk mendukung pencapaian nilai maturitas SPIP.",
+       "kegiatan": "Konsistensi dalam pemutakhiran dokumen, pengumpulan bukti dukung, serta koordinasi antar sub bagian sehingga seluruh unsur SPIP dapat terdokumentasi dan terpenuhi dengan baik.",
+       "upaya": "Meningkatkan penerapan SPIP melalui peningkatan koordinasi antar sub bagian, melakukan pemantauan terhadap pemenuhan dokumen dukung SPIP, serta peningkatan pemahaman pegawai mengenai penerapan SPIP agar pengendalian internal tidak hanya terpenuhi secara administratif, tetapi juga dapat diterapkan secara konsisten dalam pelaksanaan tugas dan mendukung peningkatan nilai maturitas SPIP KPU Kabupaten Pacitan.",
+       "link": "https://e-spip.kpu.go.id/dashboard",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN TEKNIS & HUKUM"
+      }
+     ]
+    },
+    {
+     "no": "29",
+     "sasaran": "Terlaksananya pengelolaan Barang Milik Negara KPU Kabupaten Pacitan yang patuh dan tertib berdasarkan Sistem Akuntansi Pemerintahan",
+     "indikator": [
+      {
+       "indikator": "Persentase pengelolaan Barang Milik Negara yang material secara patuh dan tertib sesuai Standar Akuntansi Pemerintah (SAP)",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Proses penghapusan barang BMN yang harus melalui banyak tahapan mulai dari inventarisasi kondisi barang, pengajuan PSP, pengajuaan permohonan persetujuan penghapusan BMN ke KPU RI sampai dengan permohonan lelang ke KPKNL dalam pelaksanaannya masih terdapat beberapa ketentuan kebijakan yang berubah dan perlu dilakukan penyesuaian secara berulang",
+       "kegiatan": "1. Telah melakukan reklasifikasi terhadap seluruh BMN serta melakukan PSP BMN yang ada di KPU Kabupaten Pacitan\n2. Telah mendapatkan peersetujuan penghapusan BMN dengan kondisi rusak berat atas barang yang tidak digunakan dalam operasional perkantoran (BMN roda 4 dan BMN roda 2) dan sedang proses lelang",
+       "upaya": "1. Dalam rangka mewujudkan tertib administrasi dan optimalisasi pengelolaan Barang Milik Negara (BMN) yang sudah tidak digunakan atau telah memenuhi kriteria untuk dihapuskan telah dilakukan inventarisasi dan identifikasi BMN untuk memastikan kondisi fisik, keberadaan, lokasi, kode barang, nilai perolehan, serta status penggunaan BMN yang hasilnya digunakan sebagai dasar untuk menentukan BMN yang akan ditindaklanjuti dapam proses penghapusan.\n2. BMN yang akan dilakukan penghapusaan sebelumnya ditindaklanjuti dengan dilakukan pengajuan Penetapan Status Penggunaan (PSP) sesuai ketentuan yang berlaku, sehingga status administrasi BMN menjadi jelas dan tertib.",
+       "link": "https://drive.google.com/drive/folders/1Qno8IhKUsEFJ-KpV_47JkFjTdYFgW6Lk?hl=ID",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      },
+      {
+       "indikator": "Jumlah laporan Barang Milik Negara KPU Kabupaten Pacitan berdasarkan SIMAN BMN yang datanya sesuai dengan Data Standar Akuntansi Keuangan (SAK) Laporan CALBMN",
+       "target": "2 Laporan",
+       "target_tw": "1 Laporan dan 1 Draf Laporan",
+       "realisasi": "1 Laporan dan 1 Draf Laporan",
+       "real_anggaran": "",
+       "kendala": "BMN yang telah rusak berat, tidak digunakan, atau sedang dalam proses penghapusan dapat menimbulkan perbedaan data antar laporan.",
+       "kegiatan": "Menyampaikan bahwa terdapat BMN yang sedang dalam proses penghapusan pada laporan. Data BMN yang bersumber dari SIMAN BMN untuk dilakukan sinkronisasi dengan data pada Standar Akuntansi Keuangan (SAK), dalam penyusunan Draft CALBMN Semester II",
+       "upaya": "Melakukan upaya meminimalisir perbedaan data antara SIMAN BMN, CALBMN, RKBMN, dan Laporan Wasdal serta meningkatkan akurasi, ketertiban, dan akuntabilitas penyusunan laporan BMN dengan:\n1. Melakukan rekonsiliasi dan pemutakhiran data BMN secara berkala,\n2. Membuat database BMN yang terstruktur, serta melakukan verifikasi antara data administrasi dengan kondisi fisik BMN.\n3. Melakukan checklist terhadap hasil rekonsiliasi, melakukan percepatan pemutakhiran data setelah terjadi perubahan atau transaksi BMN,\n4. Meningkatkan koordinasi antara pengelola BMN dan pengelola keuangan, serta penataan arsip dokumen BMN secara digital.",
+       "link": "https://drive.google.com/drive/folders/1Qno8IhKUsEFJ-KpV_47JkFjTdYFgW6Lk?hl=ID",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN KUL"
+      }
+     ]
+    },
+    {
+     "no": "30",
+     "sasaran": "Tersedianya data dan informasi yang valid di lingkungan KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase penyediaan data dan informasi secara valid",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Pengelolaan dan pembaruan data pada media penyimpanan cloud belum seluruhnya dilakukan secara berkala\n2. Identifikasi/penamaan pada data dan informasi belum diseragamkan",
+       "kegiatan": "Telah dilakukan validasi dan pengklasifikasian terhadap data yang dapat dipublikasikan maupun yang bersifat terbatas",
+       "upaya": "Mendorong setiap subbagian untuk melakukan pemutakhiran dan klasifikasi data berkala",
+       "link": "https://kab-pacitan.kpu.go.id/",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "31",
+     "sasaran": "Terlaksananya penerapan e-Government secara tepat di lingkungan KPU Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase penerapkan e-Government sesuai SOP yang berlaku",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Pembaruan SOP 2026 belum semuanya ditetapkan dan di publikasikan",
+       "kegiatan": "Inventarisasi dan evaluasi Standar Operasional Prosedur (SOP) di lingkungan KPU Kabupaten Pacitan.",
+       "upaya": "Mendorong pelaksanaan penetapan dan sosialisasi SOP",
+       "link": "https://s.id/sop2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "32",
+     "sasaran": "Tersedianya sarana dan prasarana IT KPU Kabupaten Pacitan yang terintegrasi dan memadai",
+     "indikator": [
+      {
+       "indikator": "Persentase penyediakan sarana dan prasarana IT secara memadai sesuai standar KPU",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Anggaran pengadaan peralatan IT semakin terbatas, sementara sebagian perangkat sudah lama digunakan dan perlu pemeliharaan/peremajaan",
+       "kegiatan": "Melakukan pemeliharaan atas peralatan IT yang tersedia.",
+       "upaya": "Menyusun usulan kebutuhan sarana dan prasarana IT prioritas berdasarkan hasil pendataan kelayakan.",
+       "link": "https://s.id/pengadaan_2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "33",
+     "sasaran": "Terlaksananya peningkatan kompetensi SDM di lingkungan KPU Kabupaten Pacitan melalui media kompetensi yang tersedia",
+     "indikator": [
+      {
+       "indikator": "Persentase peningkatan kompetensi SDM melalui media kompetensi yang ada",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "-",
+       "kendala": "1. Kesadaran pegawai akan pentingnya upaya peningkatan kompetensi untuk menambah wawasan dan ketrampilan masih perlu dioptimalkan\n2. Serifikat pelatihan belum menjadi prasyarat untuk pengurusan kenaikan gaji berkala maupun kenaikan pangkat reguler.",
+       "kegiatan": "1. Mewajibkan pegawai untuk memiliki sertifikat pelatihan denagn menetapkan jumlah minimal kepemilikan setifikat maupun Jam pelatihan.\n2. Mendorong dan memotivasi pegawai untuk mengikuti pelatihan peningkatan kompetensi berbasis E-learning melalui aplikasi yang tersedia.",
+       "upaya": "1. Melakukan identifikasi terhadap pegawai yang telah melakukan pelatihan dengan menginventarisir sertifikat hasil pelatihan.\n2. Menetapkan batas minimal kepemilikan sertifikat pelatihan dan Jam Pelatihan (JP) untuk masing-masing pegawai.",
+       "link": "https://docs.google.com/spreadsheets/d/1PH_pUqNHKpvuFgBADSYh9UJV-H5HCdWQcEtdZzyS2Ro/edit",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN PARHUBMAS & SDM"
+      }
+     ]
+    },
+    {
+     "no": "34",
+     "sasaran": "Terlaksananya pemanfaatan dan dukungan operasional sistem informasi Pemilu dan Pemilihan di tingkat Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase sistem informasi Pemilu dan Pemilihan yang dimanfaatkan dan dioperasionalkan KPU Kabupaten Pacitan sesuai ketentuan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Kinerja akses sistem informasi Pemilu dan Pemilihan banyak bergantung pada kondisi server pusat, sehingga pada waktu tertentu terjadi kendala akses dan dapat mengganggu kelancaran operasional.",
+       "kegiatan": "1. Pengalokasian dukungan biaya operasional pada penggunaan sistem chatbot cek DPT PDPB\n2. Melakukan pemantauan terhadap akses dan operasional sistem informasi yang digunakan.",
+       "upaya": "1. Meningkatkan koordinasi dengan pengelola sistem apabila terjadi gangguan atau kendala akses.\n2. Memberi dukungan operasional pada sistem informasi",
+       "link": "https://s.id/dptpacitan",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "35",
+     "sasaran": "Terlaksananya persiapan pendataan DPT berkelanjutan di tingkat Kabupaten Pacitan",
+     "indikator": [
+      {
+       "indikator": "Persentase persiapan pendataan DPT berkelanjutan",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "1. Lambatnya respon operator SIDALIH pada satker lain dalam proses verifikasi data pemilih ganda, sehingga mempengaruhi kecepatan pengolahan data pemilih\n2. Penajaman anggaran yang berdampak pada pelaksanaan coktas",
+       "kegiatan": "1. Rapat koordinasi antara KPU dengan Stakeholder terkait pendataan DPT Berkelanjutan (Disdukcapil, Polres, Kodim, Rutan, dll)\n2. Dalam kegiatan Coktas dilakasanakan dengan metode sampling, dan faktual sampai ke kantor Desa/Kelurahan\n3. Melakukan update data pemilih pada aplikasi SIDALIH",
+       "upaya": "1. Meningkatkan koordinasi dan komunikasi berkala dengan stakeholder\n2. Membangun komunikasi dengan Admin/Operator Sidalih dari KPU Kab/Kota untuk memudahkan verifikasi saat ada tabrak data",
+       "link": "https://s.id/pdpb_2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    },
+    {
+     "no": "36",
+     "sasaran": "Terlaksananya pendataan DPT berkelanjutan di tingkat Kabupaten Pacitan bersama pihak terkait",
+     "indikator": [
+      {
+       "indikator": "Persentase pendataan DPT berkelanjutan bersama pihak terkait",
+       "target": "100%",
+       "target_tw": "75%",
+       "realisasi": "75%",
+       "real_anggaran": "",
+       "kendala": "Tidak ada kendala",
+       "kegiatan": "1. Koordinasi intensif dengan Disdukcapil dan Rutan selaku stakeholder data kependudukan\n2. Rapat koordinasi PDPB dengan Bawaslu\n3. Menyelenggarakan Kegiatan Rapat Pleno Terbuka Rekapitulasi Data Pemilih Berkelanjutan per Triwulan dengan mengundang dengan pihak terkait\n4. Menindaklanjuti imbauan dan saran perbaikan dari Bawaslu",
+       "upaya": "Menjaga koordinasi dan komunikasi secara berkala dengan stakeholder untuk memperoleh data yang mutakhir dan tepat waktu",
+       "link": "https://s.id/pdpb2026",
+       "waktu": "Oktober SD. Desember",
+       "pj": "SUB BAGIAN RENDATIN"
+      }
+     ]
+    }
+   ],
+   "tw_header": 3,
+   "nama_sheet": "SEKRETARIAT TW III",
+   "diambil": "2026-10-23T14:19:18.705Z"
+  }
+ },
+ "narasi": {
+  "KPU": {
+   "1": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Selama Triwulan III, KPU Kabupaten Pacitan telah melaksanakan berbagai kegiatan dalam mendukung pencapaian target indikator persentase kepuasan layanan KPU Kabupaten Pacitan kepada publik, diantaranya:"
+      },
+      {
+       "t": "sub",
+       "judul": "Penambahan Sarana dan Prasarana Penunjang Pelayanan Publik",
+       "isi": "Untuk meningkatkan kenyamanan dan kualitas layanan, KPU Kabupaten Pacitan telah melakukan penambahan sarana dan prasarana yang menunjang pelayanan publik, sehingga masyarakat yang membutuhkan layanan dapat dilayani dengan lebih baik."
+      },
+      {
+       "t": "sub",
+       "judul": "Pembuatan Sistem dan Jadwal Piket Pelayanan Publik",
+       "isi": "KPU Kabupaten Pacitan telah membuat sistem Pelayanan Terpadu Satu Pintu (PTSP) serta menyusun jadwal piket pelayanan publik. Langkah ini dilakukan agar layanan kepada masyarakat tersedia secara tertib dan terjadwal, dengan petugas yang jelas pada setiap waktu pelayanan."
+      },
+      {
+       "t": "sub",
+       "judul": "Knowledge Sharing Penyelenggaraan PTSP",
+       "isi": "Knowledge sharing telah dilaksanakan sebagai sarana berbagi pemahaman mengenai penyelenggaraan PTSP, sehingga seluruh petugas memiliki pemahaman yang sama dalam memberikan layanan kepada masyarakat."
+      },
+      {
+       "t": "sub",
+       "judul": "Rapat Koordinasi Pembahasan Pelayanan Publik Terintegrasi Satu Pintu",
+       "isi": "Rapat koordinasi telah dilaksanakan untuk membahas penyelenggaraan pelayanan publik terintegrasi satu pintu, sebagai upaya menyamakan persepsi, langkah, dan mekanisme kerja dalam penyelenggaraan layanan."
+      },
+      {
+       "t": "sub",
+       "judul": "Koordinasi dengan Subbagian Teknis dan Hukum (Tekhum)",
+       "isi": "KPU Kabupaten Pacitan telah berkoordinasi dengan Subbagian Tekhum terkait pengesahan regulasi pelayanan publik, agar penyelenggaraan layanan memiliki dasar ketentuan yang jelas dan dapat dipertanggungjawabkan."
+      },
+      {
+       "t": "sub",
+       "judul": "Penyampaian Laporan Survei Kepuasan Masyarakat (SKM) Triwulanan",
+       "isi": "Laporan hasil Survei Kepuasan Masyarakat (SKM) disampaikan setiap triwulan. Pelaporan secara berkala ini menjadi bahan untuk memantau persepsi masyarakat terhadap layanan yang diberikan, sekaligus dasar perbaikan kualitas layanan pada periode berikutnya."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Penyelenggaraan pelayanan publik masih menghadapi kendala berupa alur dan konsep Pelayanan Publik Terintegrasi Satu Pintu yang memerlukan pematangan dan pengkajian serta koordinasi lebih lanjut."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Peningkatan kualitas pelayanan publik difokuskan pada penguatan kompetensi petugas yang mendapatkan giliran jadwal piket, serta melakukan pemenuhan dan optimalisasi sarana dan prasarana pendukung pelayanan publik secara berkelanjutan."
+      }
+     ]
+    }
+   },
+   "2": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Selama Triwulan III, KPU Kabupaten Pacitan telah melaksanakan berbagai kegiatan dalam mendukung pencapaian target kinerja meningkatnya cakupan pendidikan pemilih bagi pemilih pemula, kelompok rentan, dan marjinal di tingkat kabupaten Pacitan, di antaranya:"
+      },
+      {
+       "t": "sub",
+       "judul": "Sosialisasi Pendidikan Pemilih pada Masa Pengenalan Lingkungan Sekolah",
+       "isi": "KPU Kabupaten Pacitan telah melaksanakan sosialisasi pendidikan pemilih kepada pemilih pemula yakni siswa/siswi SMA dan SMK di kecamatan Pacitan pada masa Pengenalan Lingkungan Sekolah (MPLS), dengan rincian sebagai berikut:"
+      },
+      {
+       "t": "tabel",
+       "rows": [
+        [
+         "NO",
+         "Tanggal",
+         "Lokasi Kegiatan",
+         "Segmentasi Peserta",
+         "Jumlah Audiens"
+        ],
+        [
+         "1",
+         "14 Juli 2026",
+         "SMK N 3 PACITAN",
+         "Pemilih Pemula",
+         "316 siswa/siswi"
+        ],
+        [
+         "2",
+         "15 Juli 2026",
+         "SMK N 2 PACITAN",
+         "Pemilih Pemula",
+         "576 siswa/siswi"
+        ],
+        [
+         "3",
+         "17 Juli2 026",
+         "SMA N 1 PACITAN",
+         "Pemilih Pemula",
+         "322 siswa/siswi"
+        ],
+        [
+         "4",
+         "18 Juli 2026",
+         "SMK N 1 PACITAN",
+         "Pemilih Pemula",
+         "558 siswa/siswi"
+        ],
+        [
+         "5",
+         "16 Juli 2026",
+         "SMA N 2 PACITAN",
+         "Pemilih Pemula",
+         "180 siswa/siswi"
+        ],
+        [
+         "",
+         "Total",
+         "1952 siswa/siswi"
+        ]
+       ]
+      },
+      {
+       "t": "sub",
+       "judul": "Sosialisasi pada Kegiatan Pemilihan OSIS (Pemilos) / Pemilihan Ketua OSIS (Pilketos)",
+       "isi": "Sosialisasi juga dilaksanakan dalam kegiatan Pemilos/Pilketos di sekolah. Kegiatan ini memberi siswa pengalaman langsung tentang proses pemilihan, sehingga nilai-nilai demokrasi dapat dipahami melalui praktik Pemilos dan Pilketos."
+      },
+      {
+       "t": "sub",
+       "judul": "Pelibatan Siswa sebagai Narasumber Podcast KPU Kabupaten Pacitan",
+       "isi": "KPU Kabupaten Pacitan melibatkan siswa dari unsur OSIS dan MPK sebagai narasumber podcast KPU Kabupaten Pacitan yang tayang secara langsung pada 19 Agustus 2026. Pelibatan ini membuat pendidikan pemilih disampaikan dengan cara yang dekat dengan generasi muda dan mendorong keterlibatan aktif mereka."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pelaksanaan kegiatan pendidikan pemilih sampai dengan Triwulan III masih menghadapi kendala dalam menjangkau seluruh lapisan masyarakat dan segmen pemilih secara optimal. Kegiatan yang telah dilaksanakan masih terfokus pada kelompok tertentu, terutama pemilih pemula di lingkungan sekolah, sementara segmen pemilih lain belum sepenuhnya terjangkau. Kondisi tersebut dipengaruhi oleh keterbatasan anggaran yang berdampak pada cakupan dan intensitas pelaksanaan kegiatan pendidikan pemilih."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Langkah tindak lanjut yang akan diambil adalah meningkatkan koordinasi dan kerjasama dengan pihak terkait untuk aktif melakukan kegiatan sosialisasi pendidikan pemilih yang berbasis non anggaran."
+      }
+     ]
+    }
+   },
+   "3": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Selama Triwulan III Tahun 2026, KPU Kabupaten Pacitan mewajibkan pegawai dengan jabatan tertentu untuk memiliki sertifikat pelatihan sebagai bagian dari upaya peningkatan kompetensi. Pegawai juga terus didorong dan dimotivasi untuk mengikuti pelatihan peningkatan kompetensi berbasis E-learning melalui aplikasi SIMPEL, yang dapat diakses secara gratis kapan saja dan di mana saja."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Masih minimnya kesadaran pegawai terhadap pentingnya pengembangan kompetensi. Hal ini berdampak pada kurang optimalnya upaya peningkatan wawasan dan keterampilan yang seharusnya menjadi kebutuhan dasar dalam mendukung pelaksanaan tugas. Selain itu, belum adanya kewajiban atau prasyarat formal berupa sertifikat pelatihan dalam pengurusan kenaikan gaji berkala maupun kenaikan pangkat reguler sehingga menyebabkan dorongan bagi pegawai untuk mengikuti pelatihan belum kuat."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dilakukan identifikasi terhadap pegawai yang telah mengikuti pelatihan dengan menginventarisir sertifikat hasil pelatihan yang dimiliki. Langkah ini menjadi dasar untuk memetakan kondisi aktual kompetensi pegawai secara komprehensif. Selanjutnya, akan ditetapkan batas minimal kepemilikan sertifikat pelatihan dan Jam Pelatihan (JP) bagi masing-masing pegawai, sebagai standar yang mengikat guna mendorong budaya belajar di lingkungan KPU Kabupaten Pacitan."
+      }
+     ]
+    }
+   },
+   "4": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "KPU Kabupaten Pacitan telah melaksanakan inventarisasi atas kondisi barang secara berkala melalui Kartu Kendali Ruang (KIR) sebagai upaya mewujudkan dukungan sarana dan prasarana yang memadai dan mendukung kelancaran tugas dan fungsi."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pencapaian target ini mengalami kendala berupa kegiatan identifikasi dan inventarisasi sarana dan prasarana kerja belum terlaksana secara maksimal, sehingga pemetaan kondisi barang secara menyeluruh masih perlu ditingkatkan."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, akan dilakukan inventarisai ruang serta penerapan Kartu Inventarisasi Ruang (KIR) untuk menentukan kondisi barang/sarana prasarana kantor oleh Tim Inventarisasi dan pengelola BMN setiap triwulan."
+      }
+     ]
+    }
+   },
+   "5": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Selama tahun 2026, belum terdapat pelaksanaan pemeriksaan oleh BPK/APIP di KPU Kabupaten Pacitan sehingga belum terdapat hasil pemeriksaan yang memerlukan tindak lanjut. Meskipun demikian, sebagai langkah preventif untuk memperkuat akuntabilitas pengelolaan keuangan, telah disusun laporan pertanggungjawaban keuangan sesuai jadwal."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Tidak terdapat permasalahan dalam penyelesaian rekomendasi hasil pemeriksaan BPK, BPKP, dan APIP karena selama periode pelaporan KPU Kabupaten Pacitan belum menerima rekomendasi hasil pemeriksaan yang memerlukan tindak lanjut."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Meskipun belum terdapat rekomendasi hasil pemeriksaan yang perlu ditindaklanjuti, KPU Kabupaten Pacitan terus memperkuat sistem pengendalian internal, tata kelola administrasi, dan kepatuhan terhadap Standar Akuntansi Pemerintahan (SAP). Upaya tersebut didukung dengan peningkatan koordinasi antarpengelola keuangan dalam penyusunan laporan pertanggungjawaban keuangan, serta koordinasi dengan pihak eksternal apabila diperlukan, sehingga akuntabilitas pengelolaan keuangan tetap terjaga."
+      }
+     ]
+    }
+   },
+   "6": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "SAKIP merupakan perwujudan kewajiban suatu instansi pemerintah untuk mempertanggungjawabkan keberhasilan dan kegagalan pelaksanaan misi organisasi dalam mencapai sasaran dan tujuan yang telah ditetapkan melalui sistem pertanggungjawaban secara periodik. KPU Kabupaten Pacitan telah rutin menyelenggarakan monitoring dan evaluasi capaian kinerja setiap triwulannya melalui forum rapat yang dihadiri seluruh jajaran komisioner dan jajaran sekretariat KPU Kabupaten Pacitan sebagaimana telah dilakukan sejak tahun-tahun sebelumnya"
+      },
+      {
+       "t": "p",
+       "text": "Pada 30 Juli 2026, hasil evaluasi AKIP Tahun 2025 diterbitkan, dimana KPU Kabupaten Pacitan mendapatkan predikat BB dengan nilai total 75,55. Capaian ini menunjukkan bahwa penerapan akuntabilitas kinerja telah berjalan dengan baik, namun masih terdapat ruang perbaikan untuk meningkatkan kualitasnya."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pada pelaksanaan sasaran ini belum ditemukan kendala selama periode pelaporan. Namun, hasil evaluasi AKIP Tahun 2025 memuat sejumlah catatan perbaikan yang perlu ditindaklanjuti, khususnya terkait kualitas penyusunan dan muatan informasi dalam laporan kinerja, diantaranya:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Dokumen Laporan Kinerja belum menginformasikan perbandingan realisasi kinerja dengan target jangka menengah.",
+        "Dokumen Laporan Kinerja belum menginformasikan perbandingan realisasi kinerja dengan realisasi kinerja di level nasional/internasional (benchmark kinerja).",
+        "Informasi dalam laporan kinerja belum sepenuhnya digunakan dalam evaluasi pencapaian keberhasilan kinerja."
+       ]
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut atas hasil evaluasi AKIP Tahun 2025, KPU Kabupaten Pacitan akan menindaklanjuti tiga rekomendasi yang diberikan, yaitu:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Menyusun dokumen Laporan Kinerja yang menginformasikan perbandingan realisasi kinerja dengan target jangka menengah.",
+        "Menyusun dokumen Laporan Kinerja yang menginformasikan perbandingan realisasi kinerja dengan realisasi kinerja di level nasional/internasional.",
+        "Menyampaikan informasi dalam laporan kinerja yang digunakan dalam evaluasi pencapaian keberhasilan kinerja."
+       ]
+      },
+      {
+       "t": "p",
+       "text": "Adapun ketiga rekomendasi tersebut akan ditindaklanjuti pada periode pelaporan Laporan Kinerja berikutnya. karena perbaikan isi laporan baru dapat diterapkan pada siklus pelaporan yang akan datang. Sementara itu, untuk mempersiapkan pemenuhannya, KPU Kabupaten Pacitan terus mendorong pemenuhan bukti dukung kinerja secara akurat dan tepat waktu,"
+      }
+     ]
+    }
+   },
+   "7": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "KPU Kabupaten Pacitan berupaya dalam mencapai nilai IKPA yang optimal. Dalam rangka meningkatkan akuntabilitas pelaksanaan anggaran, pelaksanaan, pengaturan, dan revisi anggaran pada Triwulan III dilakukan sesuai dengan arahan KPU RI dan KPU Provinsi. Selain itu, jajaran sekretariat juga melakukan koordinasi intensif dengan pimpinan terkait kebijakan penggunaan anggaran. Setiap ajuan revisi pergeseran anggaran dari masing-masing subbagian telah diinventarisasi, dan hasil revisi terbaru telah dilaporkan sebagai dasar pelaksanaan kegiatan selanjutnya"
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pelaksanaan anggaran masih dihadapkan pada beberapa kendala. Revisi anggaran berdampak pada perubahan perencanaan kegiatan dan alokasi sumber daya. Di samping itu, terdapat keterbatasan anggaran seiring munculnya kegiatan yang sebelumnya belum terpetakan dan memerlukan dukungan anggaran."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan kinerja dilakukan dengan pemetaan dan perencanaan kegiatan secara lebih cermat untuk mengantisipasi kegiatan yang belum terakomodasi dalam perencanaan awal. Selain itu, pelaksanaan kegiatan akan terus disesuaikan dengan revisi anggaran terakhir."
+      }
+     ]
+    }
+   },
+   "8": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pada Triwulan III Tahun 2026, KPU Kabupaten Pacitan melaksanakan rapat koordinasi bersama para pemangku kepentingan terkait Pemutakhiran Data Pemilih Berkelanjutan, yang melibatkan Bawaslu, Disdukcapil, dan Rutan. Rapat tersebut menjadi sarana untuk menyelaraskan data serta memperkuat sinergi dalam proses pemutakhiran data pemilih. Selanjutnya, dilaksanakan kegiatan Coklit Terbatas (Coktas) dengan metode sampling disertai pengecekan faktual hingga ke kantor desa/kelurahan, sehingga kesesuaian data pemilih dapat diverifikasi langsung di tingkat wilayah. Hasil pemutakhiran tersebut kemudian ditindaklanjuti dengan pembaruan data pemilih pada aplikasi SIDALIH sebagai basis data pemilih yang terintegrasi."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mengelola data pemilih, kendala muncul pada lambatnya respon operator SIDALIH pada satuan kerja lain dalam proses verifikasi data pemilih ganda. Kondisi ini mempengaruhi kecepatan pengolahan data pemilih, karena penyelesaian data ganda sangat bergantung pada tindak lanjut dari operator satuan kerja yang bersinggungan."
+      },
+      {
+       "t": "p",
+       "text": "Di samping itu, penajaman anggaran turut berdampak pada pelaksanaan kegiatan Coktas, sehingga kegiatan tersebut tidak dapat dilaksanakan secara menyeluruh pada semua kecamatan dan hanya dilakukan dengan metode sampling pada beberapa kecamatan saja."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Untuk memastikan ketersediaan data pemilih yang valid dan akurat, KPU Kabupaten Pacitan akan mengambil beberapa langkah tindak lanjut. Pertama, mengoptimalkan koordinasi dengan berbagai stakeholder yang berkontribusi dalam proses pemutakhiran daftar pemilih, antara lain Disdukcapil, Polres, Kodim, Rutan, dan instansi terkait lainnya. Selain itu, membangun komunikasi yang lebih baik dengan Admin/Operator SIDALIH dari KPU Kab/Kota untuk memudahkan verifikasi pada saat terjadi tabrak data."
+      }
+     ]
+    }
+   },
+   "9": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung kelancaran kerja kepemiluan, KPU Kabupaten Pacitan memanfaatkan berbagai sistem informasi berbasis teknologi yang terintegrasi sistem KPU RI. Pemanfaatan sistem informasi tersebut mencakup seluruh aspek pengelolaan data dan layanan kepemiluan, mulai dari pemutakhiran data pemilih, pengelolaan informasi partai politik, hingga pelayanan publik berbasis digital. Adapun sistem informasi yang digunakan oleh KPU Kabupaten Pacitan adalah sebagai berikut:"
+      },
+      {
+       "t": "tabel",
+       "rows": [
+        [
+         "NO",
+         "TAHAPAN/KEGIATAN",
+         "NAMA APLIKASI"
+        ],
+        [
+         "1.",
+         "Pembentukan BP Adhoc",
+         "SIAKBA"
+        ],
+        [
+         "2.",
+         "Pencalonan",
+         "SILON"
+        ],
+        [
+         "3.",
+         "Verifikasi Parpol",
+         "SIPOL"
+        ],
+        [
+         "4.",
+         "Data Pemilih",
+         "SIDALIH"
+        ],
+        [
+         "5.",
+         "Keuangan",
+         "SAKTI"
+        ],
+        [
+         "6.",
+         "Pungut, Hitung, Rekap",
+         "SIREKAP"
+        ],
+        [
+         "7.",
+         "Dana Kampanye",
+         "SIKADEKA"
+        ],
+        [
+         "8.",
+         "Logistik",
+         "SILOG"
+        ],
+        [
+         "9.",
+         "Pertanggungjawaban Anggaran",
+         "SITAB"
+        ],
+        [
+         "10.",
+         "Barang Milik Negara",
+         "SIMAN"
+        ]
+       ]
+      },
+      {
+       "t": "p",
+       "text": "Pada Triwulan III Tahun 2026, KPU Kabupaten Pacitan telah mengalokasikan dukungan biaya operasional pada sistem chatbot cek DPT PDPB dan beberapa sistem lain. Selain itu, dilakukan pemantauan secara rutin terhadap akses dan operasional sistem informasi yang digunakan, guna memastikan sistem tetap dapat dimanfaatkan dalam mendukung pelaksanaan tugas dan layanan."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kinerja akses sistem informasi Pemilu dan Pemilihan sangat bergantung pada kondisi server pusat. Akibatnya, pada waktu tertentu terjadi kendala akses yang dapat mengganggu kelancaran operasional."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam menghadapi kendala tersebut, KPU Kabupaten Pacitan akan meningkatkan koordinasi dengan pengelola sistem apabila terjadi gangguan atau kendala akses, agar penanganan dapat dilakukan dengan cepat. Selain itu, KPU Kabupaten Pacitan akan memberikan dukungan operasional pada sistem informasi yang dinilai dapat mempermudah pelaksanaan tugas serta mendorong terciptanya inovasi baru dalam pelayanan."
+      }
+     ]
+    }
+   }
+  },
+  "SEK": {
+   "1": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam rangka mencapai target indikator kinerja, Sekretariat KPU Kabupaten Pacitan telah melakukan beberapa upaya, di antaranya:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Menyajikan dan memperbarui informasi produk hukum KPU kepada publik melalui media informasi yang tersedia, yaitu JDIH dan Medsos KPU Kabupaten Pacitan.",
+        "Menyajikan informasi dan pelayanan kepada masyarakat terkait produk hukum KPU Kabupaten Pacitan dengan bahasa yang sederhana dan mudah dipahami (infografis dan flyer informasi)."
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pada periode pelaporan tidak terdapat permasalahan maupun kendala yang krusial. Penyajian informasi produk hukum KPU kepada publik di tingkat Kabupaten Pacitan telah dilaksanakan secara tepat, cepat, dan akurat sesuai dengan ketentuan yang berlaku."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "KPU Kabupaten Pacitan akan terus mempertahankan dan meningkatkan kualitas penyajian informasi produk hukum KPU kepada publik dengan melakukan pemutakhiran informasi secara berkala, memastikan setiap produk hukum yang disajikan telah melalui proses verifikasi, serta mengoptimalkan pemanfaatan media informasi yang tersedia."
+      }
+     ]
+    }
+   },
+   "2": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Selama Triwulan III, telah disediakan platform digital sebagai sarana akses ulang bahan dan materi penyuluhan hukum yang relevan dengan tugas dan fungsi KPU Kabupaten Pacitan."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam pelaksanaan peningkatan pemahaman terhadap peraturan KPU melalui penyuluhan hukum, kendala terletak pada materi Peraturan KPU yang bersifat teknis dan menggunakan istilah hukum tertentu membutuhkan penyampaian yang sederhana agar mudah dipahami oleh peserta."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Untuk mengatasi permasalahan tersebut, akan dilakukan penyediaan dan pengoptimalan platform digital sebagai media penyimpanan dan akses ulang bahan serta materi penyuluhan hukum yang relevan dengan tugas dan fungsi KPU Kabupaten Pacitan. Materi disusun secara sistematis, mudah diakses, dan diperbarui secara berkala sesuai dengan perkembangan Peraturan KPU dan ketentuan peraturan perundang-undangan yang berlaku."
+      }
+     ]
+    }
+   },
+   "3": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung capaian kinerja pada indikator ini, telah disampaikan dan diinformasikan setiap perubahan atau pembaruan regulasi kepada jajaran internal yang berkaitan dengan pelaksanaan tugas."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Secara umum tidak terdapat permasalahan yang signifikan dalam pelaksanaan kebijakan regulasi KPU di tingkat Kabupaten Pacitan. Pelaksanaan kebijakan telah dilakukan dengan berpedoman pada peraturan dan ketentuan yang berlaku serta memperhatikan prinsip kepatuhan hukum dan akuntabilitas."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, akan ditingkatkan koordinasi dan konsultasi internal dalam penerapan kebijakan, serta dipastikan setiap pelaksanaan kegiatan berpedoman pada ketentuan yang berlaku. Apabila terdapat perubahan atau pembaruan regulasi, akan dilakukan penyesuaian dan pemutakhiran dalam pelaksanaan tugas."
+      }
+     ]
+    }
+   },
+   "4": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang telah dilaksanakan Sekretariat KPU Kabupaten Pacitan dalam mendukung pencapaian target kinerja adalah, sebagai berikut:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Menyampaikan informasi terkait progres KPU Kab/Kota yang sudah melakukan kerjasama",
+        "Memasukkan dalam mapping kegiatan yang belum dilaksanakan/belum terealisasi sesuai target yang ditetapkan"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Belum terpetakannya secara optimal rencana kerja sama dengan instansi dan lembaga lain selain kejaksaan, baik terkait bentuk kegiatan, waktu pelaksanaan, maupun pihak yang akan dilibatkan. Kondisi tersebut menyebabkan kerja sama kelembagaan belum dapat direalisasikan sampai dengan Triwulan III."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Rencana kerja sama akan dimasukkan dalam agenda pembahasan Rapat Pleno Rutin KPU Kabupaten Pacitan sebagai bahan koordinasi dan penentuan tindak lanjut. Selanjutnya, akan dilakukan pemetaan terhadap instansi maupun lembaga yang berpotensi untuk menjadi mitra kerja sama dengan mempertimbangkan program dan kegiatan KPU Kabupaten Pacitan yang berpotensi dilaksanakan melalui kerja sama dengan instansi maupun lembaga terkait. Pemetaan tersebut dilakukan secara lebih luas dan tidak terbatas pada instansi tertentu, sehingga dapat membuka peluang kerja sama dengan berbagai pihak yang relevan dalam mendukung pelaksanaan tugas dan fungsi KPU Kabupaten Pacitan."
+      }
+     ]
+    }
+   },
+   "5": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Telah dilakukan peningkatan kompetensi Pejabat PPID dengan mengikuti pelatihan E-Learning dan Ujian Nasional PPID."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Secara umum tidak ada permasalahan dan kendala dalam hal pelayanan permohonan informasi dan data di PPID, Namun prosentase permohonan Data dan Informasi PPID sangat minim padaTriwulan III."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai upaya peningkatan, dilakukan pengelolaan layanan PPID secara aktif dan berkelanjutan melalui pembaruan permohonan Informasi dan Data pada aplikasi E-PPID, sehingga setiap permohonan dapat terpantau dan ditindaklanjuti dengan baik. Selain itu, dilakukan pembaruan Data Informasi Publik secara berkala sebagai sumber data dan informasi PPID guna memastikan ketersediaan informasi yang mutakhir. Upaya peningkatan akses dan pemahaman masyarakat terhadap layanan PPID juga dilakukan melalui sosialisasi menggunakan media sosial dan podcast, sehingga keberadaan dan pemanfaatan layanan PPID dapat lebih dikenal oleh masyarakat."
+      }
+     ]
+    }
+   },
+   "6": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam rangka meningkatkan jangkauan penyebarluasan informasi dan mendukung sosialisasi pendidikan pemilih, telah dilakukan upaya mendorong pihak internal untuk aktif merespon dan menyosialisasikan (share) postingan media sosial dan website KPU Kabupaten Pacitan. Selain itu, jajaran staf sekretariat telah berupaya secara kreatif dalam menghasilkan konten yang menarik dan informatif guna meningkatkan kunjungan serta interaksi masyarakat pada media sosial dan website KPU Kabupaten Pacitan."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Masih minimnya kunjungan dan jumlah pengikut yang aktif berinteraksi pada berbagai media sosial maupun website KPU Kabupaten Pacitan menjadi salah satu kendala dalam optimalisasi penyebarluasan informasi kepada masyarakat. Meskipun berbagai informasi, pengumuman, dan kegiatan telah dipublikasikan secara berkala, tingkat keterlibatan (engagement) masyarakat, seperti memberikan tanggapan, membagikan informasi, maupun mengakses konten yang dipublikasikan, masih relatif rendah."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Untuk meningkatkan efektivitas sosialisasi, akan dilakukan optimalisasi kegiatan sosialisasi melalui media sosial dan website, disertai penyusunan konten yang lebih kreatif, menarik, dan senantiasa disesuaikan dengan perkembangan zaman. Selain itu, akan dilaksanakan podcast setiap dua minggu sekali sebagai salah satu bentuk sosialisasi kepada masyarakat."
+      }
+     ]
+    }
+   },
+   "7": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung pemenuhan administrasi PAW Anggota DPRD, telah dilakukan Koordinasi dengan pihak terkait, melakukan pemeriksaan kelengkapan dokumen, serta penyusunan dan penyampaian administrasi dilaksanakan sesuai dengan prosedur dan ketentuan yang berlaku."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Secara umum tidak terdapat permasalahan yang signifikan dalam pelaksanaan dukungan dan pemenuhan administrasi PAW Anggota DPRD Kabupaten Pacitan. Seluruh proses administrasi dilaksanakan secara tertib, tepat waktu, dan sesuai dengan ketentuan peraturan perundang-undangan serta regulasi KPU yang berlaku, dengan didukung koordinasi dan komunikasi yang baik dengan pihak terkait."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Peningkatan kinerja dilakukan dengan meningkatkan ketelitian dalam pengelolaan administrasi PAW Anggota DPRD melalui pemutakhiran pemahaman terhadap ketentuan dan regulasi yang berlaku, pemeriksaan kelengkapan dan keabsahan dokumen secara cermat, serta penguatan koordinasi dengan pihak-pihak terkait. Selain itu juga dilakukan penataan dan pengarsipan dokumen secara sistematis"
+      }
+     ]
+    }
+   },
+   "8": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam rangka mencapai target kinerja, Sekretariat KPU Kabupaten Pacitan telah melakukan beberapa upaya, diantaranya:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Sosialisasi pendidikan pemilih kepada pemilih pemula pada masa Pengenalan Lingkungan Sekolah (PLS) di SMA dan SMK se-Kecamatan Pacitan.",
+        "Sosialisasi pada kegiatan Pemilos/Pilketos di sekolah.",
+        "Melibatkan siswa dari unsur OSIS dan MPK sebagai narasumber podcast KPU Pacitan."
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pelaksanaan kegiatan pendidikan pemilih masih menghadapi kendala dalam menjangkau seluruh lapisan masyarakat dan segmen pemilih secara optimal. Kondisi tersebut dipengaruhi oleh keterbatasan anggaran yang berdampak pada cakupan dan intensitas pelaksanaan kegiatan pendidikan pemilih."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai upaya peningkatan kinerja, akan dilakukan koordinasi dan kerjasama dengan pihak terkait untuk aktif melakukan kegiatan sosialisasi pendidikan pemilih yang berbasis non anggaran."
+      }
+     ]
+    }
+   },
+   "9": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam memingkatkan kemampuan pejabat perbendaharaan KPU Kabupaten Pacitan dalam menyelesaikan pertanggungjawaban penggunaan anggaran sesuai ketentuan, Pejabat perbendaharaan telah rutin mengikuti bimtek Bimbingan sistem akuntansi instansi (BIMTEK BIMASAKTI) yang di selenggarakan setiap bulan dari kemenkeu"
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Permasalahan yang dihadapi antara lain adanya perubahan kebijakan/regulasi teknis terkait sistem aplikasi keuangan (Sakti) dari pusat yang memerlukan adaptasi cepat. Hal ini berimbas pada pemeliharaan (maintenance) dan update fitur pada aplikasi SAKTI dalam waktu tertentu."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai upaya perbaikan, akan dilakukan supervisi dan internalisasi secara berkala bagi pejabat perbendaharaan dan staf pengelola keuangan dalam pengeloaan pertanggungjawaban keuangan."
+      }
+     ]
+    }
+   },
+   "10": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung penyusunan dan penyampaian laporan sistem akuntansi dan pelaporan keuangan, telah dilakukan penyusunan laporan CALK dan CALBMN rutin setiap bulannya."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Perlu adanya sinkronisasi tertebih dahulu antara Catatan Laporan BMN dengan Catatan Laporan Keuangan serta membutuhkan waktu untuk rekonsiliasi sampai terbentuk."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, akan ditingkatkannya koordinasi dan sinkronisasi antara pengelola keuangan dalam proses rekonsiliasi dan penyusunan laporan keuangan."
+      }
+     ]
+    }
+   },
+   "11": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung penyusunan dan penyampaian laporan pertanggungjawaban penggunaan anggaran, telah dilakukan pengumpulan bukti dukung pertanggungjawaban setelah pelaksanaan serta adanya kontrol atas kelengkapan, ketepatan dan kecepatan bukti dukung atas pertanggungjawaban kegiatan"
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Secara umum tidak terdapat hambatan yang bersifat mendasar dan menggagalkan capaian target pada sasaran ini. Namun demikian, tetap diperlukan konsistensi dalam penyusunan laporan agar sesuai ketentuan serta penyampaian laporan dengan tepat waktu."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, akan dipertahankan ketepatan dalam penyusunan laporan serta ketepatan waktu dalam penyampaian laporan, disertai peningkatan koordinasi dan internalisasi secara berkala guna menjaga konsistensi kinerja."
+      }
+     ]
+    }
+   },
+   "12": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung ketepatan waktu pembayaran gaji dan tunjangan pegawai, telah dilakukan koordinasi dengan pihak SDM untuk pengumpulan absensi secara tepat waktu dan optimalisasi kedisiplinan pegawai dalam pengisian daftar hadir."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pelaksanaan pembayaran gaji dan tunjangan pegawai pada Triwulan III masih dihadapkan pada beberapa kendala. Secara umum, proses penggajian bergantung pada rekapitulasi data absensi pegawai sebagai dasar perhitungan tunjangan kinerja dan uang makan, sehingga pengajuan pembayaran baru dapat diproses setelah rekapitulasi tersebut selesai divalidasi. Di samping itu, terdapat ketidaksesuaian data kepegawaian antara data pada Bagian SDM dan data pada aplikasi, yang berdampak pada keterlambatan penerbitan Kenaikan Gaji Berkala (KGB) pegawai."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Perlunya peningkatan koordinasi dengan pihak SDM dalam hal manajemen kepegawaian yang berhubungan dengan gaji."
+      }
+     ]
+    }
+   },
+   "13": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang dilaksanakan dalam indikator Persentase perencanaan program dan kegiatan sesuai ketentuan yang berlaku, adalah:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Pelaksanaan, pengaturan, dan revisi anggaran dilakukan sesuai dengan arahan KPU RI dan KPU Provinsi.",
+        "Koordinasi intensif dengan pimpinan terkait kebijakan penggunaan anggaran.",
+        "Menginventarisir setiap ajuan revisi pergeseran anggaran dari masing-masing sub bagian.",
+        "Melaporkan hasil revisi terupdate."
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Permasalahan yang dihadapi antara lain revisi anggaran yang berdampak pada perubahan perencanaan kegiatan dan alokasi sumber daya. Selain itu, keterbatasan anggaran juga menjadi tantangan, terutama dengan munculnya sejumlah kebutuhan dan kegiatan yang belum teridentifikasi atau terpetakan pada tahap perencanaan awal, tetapi memerlukan dukungan anggaran untuk dapat dilaksanakan. Kondisi tersebut menuntut adanya penyesuaian perencanaan, penentuan skala prioritas, serta optimalisasi pemanfaatan sumber daya yang tersedia."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan kinerja dilakukan dengan penyesuaian kembali mapping kegiatan sesuai hasil revisi anggaran, guna mengidentifikasi kebutuhan serta mengantisipasi adanya kegiatan yang belum terakomodasi dalam perencanaan awal, sehingga dukungan anggaran dapat dipersiapkan secara optimal. Selain itu, perencanaan dan pelaksanaan kegiatan disesuaikan dengan hasil revisi anggaran terakhir"
+      }
+     ]
+    }
+   },
+   "14": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang dilaksanakan dalam indikator Persentase pemenuhan komponen Reformasi Birokrasi KPU Kabupaten Pacitan sesuai pedoman KPU, adalah:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Pelaksanaan rapat koordinasi pembahasan pelayanan publik terintegrasi satu pintu",
+        "Memaksimalkan penggunaan apllikasi SRIKANDI sebagai pengelolaan naskah dinas",
+        "Pelaksanaan Podcast sebagai inovasi dalam penyebarluasan informasi.",
+        "Pembuatan tim piket pelayanan publik, penyediaan sarana prasarana, dan pematangan konsep PTSP"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam pelaksanaan Reformasi Birokrasi, kendala terletak pada belum adanya sosialisasi secara spesifik dari KPU RI terkait pelaksanaan reformasi birokrasi, utamanya terkait pemenuhan komponen beserta tata cara implementasi, hal ini turut memengaruhi pemahaman dan kesiapan pelaksana di tingkat daerah. Adapun Reformasi Birokrasi berkaitan erat dengan regulasi Zona Integritas dan Pelayanan Publik, sehingga perlu ada koordinasi dengan subbagian terkait"
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan kinerja dilakukan melalui penguatan koordinasi antar-subbagian dalam mendukung penerapan Pelayanan Terintegrasi Satu Pintu (PTSP) guna meningkatkan efektivitas dan kualitas pelayanan publik. Di samping itu, pelaksanaan pemenuhan komponen Reformasi Birokrasi akan mengacu pada pedoman teknis dari KPU Provinsi yang disampaikan setelah pelaksanaan sosialisasi sebagai panduan bagi satuan kerja dalam mengimplementasikan Reformasi Birokrasi."
+      }
+     ]
+    }
+   },
+   "15": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang dilaksanakan dalam indikator Persentase pelayanan publik secara baiksecara baik, adalah:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Penambahan sarana dan prasarana penunjang pelayanan publik",
+        "Penyampaian laporan SKM Triwulanan",
+        "Koordinasi dengan Subbagian Tekhum terkait pengesahan regulasi pelayanan publik",
+        "Pelaksanaan rapat koordinasi pembahasan pelayanan publik terintegrasi satu pintu",
+        "Membuat jadwal piket pelayanan publik",
+        "Pelaksanaan knowledge sharing penyelenggaraan PTSP",
+        "Pembuatan sistem PTSP"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Penyelenggaraan pelayanan publik dihadapkan pada kendala berupa alur dan konsep PTSP yang memerlukan pematangan dan pengkajian serta koordinasi lebih lanjut."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Peningkatan kualitas pelayanan publik difokuskan pada penguatan kompetensi petugas yang mendapatkan giliran jadwal piket, serta melakukan pemenuhan dan optimalisasi sarana dan prasarana pendukung pelayanan publik secara berkelanjutan."
+      }
+     ]
+    }
+   },
+   "16": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang dilaksanakan dalam mendukung pelaksanaan monitoring dan evaluasi program dan anggaran, adalah:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Pelaksanaan Monitoring dan Evaluasi Capaian Kinerja Triwulanan",
+        "Penyusunan Laporan hasil Monitoring dan Evaluasi Capaian Kinerja per triwulan"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sampai dengan Triwulan III, pelaksanaan monitoring dan evaluasi program dan anggaran tidak mengalami kendala yang signifikan. Laporan hasil monitoring dan evaluasi telah dapat disampaikan secara rutin dan tepat waktu sesuai jadwal yang ditetapkan, sehingga target kinerja pada sasaran ini dapat terpenuhi."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sampai dengan Triwulan III, pelaksanaan monitoring dan evaluasi program dan anggaran tidak mengalami kendala yang signifikan. Laporan hasil monitoring dan evaluasi telah dapat disampaikan secara rutin dan tepat waktu sesuai jadwal yang ditetapkan, sehingga target kinerja pada sasaran ini dapat terpenuhi."
+      }
+     ]
+    }
+   },
+   "17": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung tertib administrasi dan pengelolaan Sumber Daya Manusia (SDM), telah dilakukan pemutakhiran data kepegawaian secara berkala serta digitalisasi arsip kepegawaian guna mempermudah pelayanan urusan kepegawaian."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Permasalahan yang dihadapi antara lain pemahaman pegawai mengenai implementasi hak dan kewajiban pegawai masih perlu terus dioptimalkan, sehingga proses administrasi kepegawaian belum sepenuhnya berjalan optimal. Selain itu, perangkat dan sistem yang digunakan masih perlu ditingkatkan untuk meminimalkan gangguan operasional akibat kendala teknis maupun pemeliharaan (maintenance), karena gangguan tersebut dapat menghambat ketepatan waktu pemberian layanan kepegawaian."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya yang akan dilakukan meliputi pembaruan data pegawai secara mandiri dan berkala agar data kepegawaian selalu akurat dan mutakhir. Selain itu, akan dilakukan monitoring dan evaluasi kelengkapan arsip pegawai secara berkala untuk memastikan seluruh dokumen kepegawaian tersedia dan tertata dengan baik. Untuk mendorong disiplin dan kinerja, KPU Kabupaten Pacitan juga akan menerapkan reward bagi pegawai berprestasi dan punishment bagi pegawai yang melanggar perintah/aturan, sehingga kesadaran pegawai terhadap hak dan kewajibannya semakin meningkat."
+      }
+     ]
+    }
+   },
+   "18": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung ketersediaan dokumen kepegawaian yang valid dan mutakhir, telah dilakukan pemutakhiran data pegawai secara berkala, baik yang terorganisir oleh operator kepegawaian maupun yang dilakukan secara mandiri oleh masing-masing pegawai."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Aplikasi data kepegawaian yang digunakan saat ini masih belum terintegrasi, sehingga pemutakhiran data masih memerlukan proses update secara manual. Kondisi ini menuntut ketelitian dan waktu tambahan, serta berpotensi menyebabkan data kepegawaian tidak seragam atau terlambat diperbarui, sehingga ketersediaan dokumen yang valid dan update belum optimal."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Mendorong seluruh pegawai untuk melakukan pemutakhiran data kepegawaian pada aplikasi masing-masing secara berkala, disertai verifikasi dan sinkronisasi data kepegawaian oleh operator kepegawaian untuk memastikan data yang tercatat pada seluruh aplikasi konsisten, valid, dan sesuai dengan dokumen yang tersedia."
+      }
+     ]
+    }
+   },
+   "19": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung penyediaan sarana kerja yang baik dan memadai, telah dilakukan inventarisasi atas kondisi barang secara berkala melalui Kartu Inventarisasi Ruang (KIR)."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pada penyediaan dukungan sarana dan prasarana kerja, identifikasi dan inventarisasi sarana dan prasarana kerja belum terlaksana secara maksimal. Hal ini menyebabkan data mengenai kondisi dan kebutuhan sarana prasarana belum sepenuhnya menggambarkan keadaan di lapangan."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan dilakukan dengan akan dilakukan inventarisasi ruang serta penerapan Kartu Inventarisasi Ruang (KIR) untuk menentukan kondisi barang/sarana prasarana kantor oleh Tim Inventarisasi dan pengelola Barang Milik Negara (BMN) setiap triwulan. Dengan langkah ini, data kondisi sarana prasarana dapat selalu diperbarui dan menjadi dasar dalam perencanaan pemeliharaan maupun pemenuhan kebutuhan sarana dan prasarana kerja."
+      }
+     ]
+    }
+   },
+   "20": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung penyediaan gedung dan gudang kantor yang layak dan berdaya manfaat, telah dilakukan rehabilitasi gedung dan bangunan kantor, serta pemeliharaan secara berkala sesuai dengan kondisi kerusakan."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Terdapatnya sarana berupa ruang kerja yang mengalami penurunan nilai manfaat atau kerusakan, sehingga memerlukan perbaikan lebih lanjut."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, telah dan akan terus dilaksanakan rehabilitasi serta pemeliharaan gedung dan bangunan dengan memaksimalkan pagu anggaran yang tersedia, guna menjaga kelayakan dan daya manfaat sarana kerja secara berkelanjutan. Selain itu, perlu dibuatnya dokumen Analisa Rehab Gedung, sehingga dapat ditetapkan skala prioritas rehab Gedung, baik untuk jangka pendek, menengah maupun jangka panjang."
+      }
+     ]
+    }
+   },
+   "21": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Telah dilakukan inventarisasi dan klasifikasi atas kebutuhan barang layanan perkantoran, untuk menentukan kebutuhan yang lebih prioritas dalam peningkatan kualitas layanan perkantoran."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Terjadi fluktuasi harga kebutuhan barang layanan yang tidak stabil, sementara sebagian kebutuhan barang belum sesuai dengan peruntukannya. Kondisi ini mempengaruhi perencanaan dan pemenuhan kebutuhan layanan perkantoran."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Perlu dilakukan efisiensi penggunaan anggaran operasional dan optimalisasi perawatan sarana prasarana. Pemenuhan kebutuhan barang akan diprioritaskan pada hal yang paling mendukung kelancaran pelaksanaan tugas, dengan tetap memperhatikan perubahan harga, sehingga kualitas layanan perkantoran tetap terjaga dalam keterbatasan anggaran yang tersedia."
+      }
+     ]
+    }
+   },
+   "22": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang dilaksanakan dalam mencapai indikator Persentase kualitas tata kelola administrasi persuratan dan pengelolaan arsip KPU Kabupaten Pacitan, adalah:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Penggunaan aplikasi Srikandi secara konsisten",
+        "Menyusun SOP Alur Surat Keluar Masuk berbasis Srikandi"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Aplikasi Srikandi masih sering mengalami gangguan sehingga mengganggu kelancaran proses administrasi persuratan. Selain itu, sistem penomoran pada buku agenda dengan penomoran pada aplikasi Srikandi terkadang masih berbeda, sehingga dapat menimbulkan ketidaksesuaian pencatatan dan menyulitkan penelusuran"
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya yang akan dilakukan adalah melakukan pembaruan aplikasi Srikandi agar kinerja aplikasi lebih stabil. Selain itu, KPU Kabupaten Pacitan akan meningkatkan pemahaman terkait mekanisme kearsipan di lingkungan KPU Kabupaten Pacitan, termasuk kesiapan penyediaan buku registrasi penomoran supaya dapat disamakan dengan Srikandi, sehingga tata kelola persuratan dan pengelolaan arsip dapat berjalan lebih tertib dan akuntabel."
+      }
+     ]
+    }
+   },
+   "23": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Telah ditunjuknya personel sebagai tim keprotokolan, yang secara mandiri menggali pemahaman tentang regulasi dan tata cara keprotokolan."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Belum ada pelatihan khusus untuk petugas keprotokolan, sehingga pemahaman petugas terkait regulasi dan praktik keprotokolan masih terbatas. Kondisi ini dapat mempengaruhi kualitas pelayanan persidangan dan protokol, terutama dalam penerapan tata cara dan ketentuan keprotokolan yang sesuai."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan layanan persidangan dan protokol dilakukan melalui peningkatan kompetensi di bidang layanan persidangan dan keprotokolan Selain itu, akan dilakukan pendampingan dan pengarahan lebih lanjut terkait petugas dan mekanisme keprotokolan di KPU Kabupaten Pacitan, sehingga pelayanan persidangan dan protokol dapat berjalan lebih baik dan sesuai ketentuan."
+      }
+     ]
+    }
+   },
+   "24": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung terciptanya keamanan dan ketertiban di lingkungan kantor, personil Jagat Saksana telah melaksanakan piket keamanan, serta pemeliharaan CCTV yang kini dapat terhubung dan dipantau langsung pada perangkat pimpinan."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam pelaksanaan keamanan dan ketertiban di lingkungan KPU Kabupaten Pacitan, tidak ditemukan kendala yang secara langsung mengganggu jalannya fungsi keamanan, tetapi perlu adanya peningkatan fungsi kontrol terhadap arus tamu masuk dan keluar."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "KPU Kabupaten Pacitan perlu melakukan mitigasi terhadap keamanan kantor dan melakukan evaluasi secara berkala kepada petugas atas pelaksanaan pengamanan kantor."
+      }
+     ]
+    }
+   },
+   "25": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang telah dilaksanakan Sekretariat KPU Kabupaten Pacitan dalam mendukung pencapaian target kinerja adalah, sebagai berikut:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Fasilitasi penyampaian pengaduan masyarakat melalui platform digital yang tersedia sebagai bentuk keterbukaan dan kemudahan akses pelayanan public",
+        "Pemantauan berkala terhadap pengaduan yang masuk"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam periode pelaporan, tidak terdapat pengaduan masyarakat yang diterima oleh KPU Kabupaten Pacitan (nihil). Dengan demikian, tidak terdapat permasalahan maupun kendala dalam pelaksanaan tindak lanjut pengaduan masyarakat. Kanal pengaduan tetap tersedia dan dapat diakses, serta tidak ada pengaduan yang tertunda penanganannya."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya yang akan dilakukan adalah meningkatkan optimalisasi layanan pengaduan masyarakat dengan memastikan kanal pengaduan digital tetap tersedia, mudah diakses, dan berfungsi dengan baik. Selain itu, akan dilakukan pemantauan secara berkala terhadap kanal pengaduan, penyampaian informasi kepada masyarakat mengenai mekanisme dan media penyampaian pengaduan, serta peningkatan koordinasi internal agar setiap pengaduan yang diterima dapat segera diverifikasi dan ditindaklanjuti sesuai dengan ketentuan yang berlaku."
+      }
+     ]
+    }
+   },
+   "26": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Selama Triwulan III, telah dilakukan pengarsipan dan dokumentasi hasil evaluasi akuntabilitas kinerja (LHE) secara tertib dan terdigitalisasi melalui laporan Sistem Pengendalian Intern Pemerintah (SPIP)."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pada periode pelaporan, tidak terdapat permasalahan dalam penyelesaian rekomendasi hasil pemeriksaan BPK, BPKP, dan APIP, mengingat KPU Kabupaten Pacitan belum menerima rekomendasi hasil pemeriksaan yang memerlukan tindak lanjut."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan dilakukan melalui penguatan pengendalian internal, pengelolaan administrasi, dan kepatuhan terhadap peraturan perundang-undangan sebagai upaya menjaga tata kelola yang akuntabel. Upaya ini dilakukan agar apabila di kemudian hari terdapat rekomendasi hasil pengawasan, tindak lanjut dapat segera dilaksanakan secara cepat, tepat, dan sesuai ketentuan."
+      }
+     ]
+    }
+   },
+   "27": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang telah dilaksanakan Sekretariat KPU Kabupaten Pacitan dalam mendukung pencapaian target kinerja adalah, sebagai berikut:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Menyusun laporan keuangan sesuai jadwal",
+        "Menyiapkan draft laporan pertanggungjawaban keuangan untuk pelaporan berikutnya agar memudahkan penyusunan laporan dapat sesuai jadwal"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Penyusunan Laporan Pertanggungjawaban Keuangan yang diminta lebih awal dari batas waktu (deadline) yang ditetapkan, sehingga terkadang kurang cukup waktu apabila memerlukan koordinasi dengan pihak eksternal (KPPN dan KPU Provinsi). Kondisi ini berpotensi mempengaruhi ketepatan waktu dan kualitas penyusunan laporan keuangan."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Peningkatan koordinasi antar pengelola keuangan dalam mengelola dan menyusun laporan pertanggungjawaban serta membuat jadwal koordinasi dengan pihak eksternal jika diperlukan. Dengan perencanaan waktu yang lebih awal, proses konsultasi dan verifikasi dengan KPPN maupun KPU Provinsi dapat dilakukan secara lebih terukur, sehingga laporan keuangan tetap sesuai SAP dan bebas dari kesalahan material."
+      }
+     ]
+    }
+   },
+   "28": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang telah dilaksanakan Sekretariat KPU Kabupaten Pacitan dalam mendukung pencapaian target kinerja adalah, sebagai berikut:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Memutakhirkan dokumen dan mengumpulkan bukti dukung secara konsisten",
+        "Melakukan koordinasi antar sub bagian agar seluruh unsur SPIP dapat terdokumentasi dan terpenuhi dengan baik"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pada pelaksanaan sasaran ini tidak terdapat permasalahan dan kendala yang berarti. Penerapan pengendalian internal telah dilaksanakan sesuai dengan ketentuan yang berlaku. Pemenuhan dokumen dan bukti dukung dilakukan secara tertib, disertai monitoring dan evaluasi serta koordinasi secara berkala untuk mendukung pencapaian nilai maturitas SPIP."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan kinerja dalam pelaksanaan Sistem Pengendalian Intern Pemerintah (SPIP) dilakukan dengan meningkatkan koordinasi antar sub bagian, melakukan pemantauan terhadap pemenuhan dokumen dukung SPIP, serta meningkatkan pemahaman pegawai mengenai penerapan SPIP. Dengan demikian, pengendalian internal tidak hanya terpenuhi secara administratif, tetapi juga dapat diterapkan secara konsisten dalam pelaksanaan tugas dan mendukung peningkatan nilai maturitas SPIP KPU Kabupaten Pacitan."
+      }
+     ]
+    }
+   },
+   "29": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "sub",
+       "judul": "Persentase pengelolaan Barang Milik Negara yang material secara patuh dan tertib sesuai SAP",
+       "isi": "Pada Triwulan III telah dilakukan reklasifikasi terhadap seluruh BMN serta melakukan PSP BMN yang ada di KPU Kabupaten Pacitan. Adapun telah terbitnya persetujuan penghapusan BMN dengan kondisi rusak berat atas barang yang tidak digunakan dalam operasional perkantoran (BMN roda 4 dan BMN roda 2), dan saat ini sedang dalam proses lelang"
+      },
+      {
+       "t": "sub",
+       "judul": "Jumlah laporan Barang Milik Negara KPU Kabupaten Pacitan berdasarkan SIMAN BMN yang datanya sesuai dengan Data Standar Akuntansi Keuangan (SAK)",
+       "isi": "Telah dilakukannya sinkronisasi data BMN yang bersumber dari SIMAN BMN dengan data pada Standar Akuntansi Keuangan (SAK) dalam penyusunan Draft CALBMN Semester II. Dalam proses tersebut, disampaikan pula bahwa terdapat BMN yang sedang dalam proses penghapusan pada laporan"
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "sub",
+       "judul": "Persentase pengelolaan Barang Milik Negara yang material secara patuh dan tertib sesuai SAP",
+       "isi": "Proses penghapusan BMN harus melalui banyak tahapan, mulai dari inventarisasi kondisi barang, pengajuan PSP, pengajuan permohonan persetujuan penghapusan BMN ke KPU RI, hingga permohonan lelang ke KPKNL. Dalam pelaksanaannya masih terdapat beberapa ketentuan kebijakan yang berubah sehingga perlu dilakukan penyesuaian secara berulang. Kondisi ini membuat proses penghapusan membutuhkan waktu yang cukup panjang dan belum dapat diselesaikan sepenuhnya."
+      },
+      {
+       "t": "sub",
+       "judul": "Jumlah laporan Barang Milik Negara KPU Kabupaten Pacitan berdasarkan SIMAN BMN yang datanya sesuai dengan Data Standar Akuntansi Keuangan (SAK)",
+       "isi": "BMN yang telah rusak berat, tidak digunakan, atau sedang dalam proses penghapusan dapat menimbulkan perbedaan data antar laporan. Kondisi ini berpotensi mempengaruhi kesesuaian data BMN pada SIMAN BMN dengan data SAK dalam penyusunan Laporan CALBMN."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "sub",
+       "judul": "Persentase pengelolaan Barang Milik Negara yang material secara patuh dan tertib sesuai SAP",
+       "isi": "Dalam rangka mewujudkan tertib administrasi dan optimalisasi pengelolaan BMN yang sudah tidak digunakan atau telah memenuhi kriteria untuk dihapuskan, telah dilakukan inventarisasi dan identifikasi BMN untuk memastikan kondisi fisik, keberadaan, lokasi, kode barang, nilai perolehan, serta status penggunaan BMN. Hasil inventarisasi tersebut dijadikan dasar untuk menentukan BMN yang akan ditindaklanjuti dalam proses penghapusan. BMN yang akan dihapuskan sebelumnya ditindaklanjuti dengan pengajuan Penetapan Status Penggunaan (PSP) sesuai ketentuan yang berlaku, sehingga status administrasi BMN menjadi jelas dan tertib."
+      },
+      {
+       "t": "sub",
+       "judul": "Jumlah laporan Barang Milik Negara KPU Kabupaten Pacitan berdasarkan SIMAN BMN yang datanya sesuai dengan Data Standar Akuntansi Keuangan (SAK)",
+       "isi": "Melakukan upaya meminimalisir perbedaan data antara SIMAN BMN, CALBMN, RKBMN, dan Laporan Wasdal serta meningkatkan akurasi, ketertiban, dan akuntabilitas penyusunan laporan BMN dengan:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Melakukan rekonsiliasi dan pemutakhiran data BMN secara berkala",
+        "Membuat database BMN yang terstruktur, serta melakukan verifikasi antara data administrasi dengan kondisi fisik BMN",
+        "Melakukan checklist terhadap hasil rekonsiliasi, melakukan percepatan pemutakhiran data setelah terjadi perubahan atau transaksi BMN",
+        "Meningkatkan koordinasi antara pengelola BMN dan pengelola keuangan, serta penataan arsip dokumen BMN secara digital."
+       ]
+      }
+     ]
+    }
+   },
+   "30": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang telah dilaksanakan Sekretariat KPU Kabupaten Pacitan dalam mendukung pencapaian target kinerja adalah melakukan validasi dan pengklasifikasian terhadap data yang dapat dipublikasikan maupun yang bersifat terbatas."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pengelolaan dan pembaruan data pada media penyimpanan cloud belum seluruhnya dilakukan secara berkala. Selain itu, identifikasi dan penamaan pada data dan informasi belum diseragamkan, sehingga dapat menyulitkan penelusuran dan pemanfaatan data."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Mendorong setiap subbagian untuk melakukan pemutakhiran dan klasifikasi data secara berkala. Dengan pemutakhiran rutin serta penyeragaman identifikasi dan penamaan data, data dan informasi yang tersedia diharapkan lebih tertata, valid, dan mudah dimanfaatkan."
+      }
+     ]
+    }
+   },
+   "31": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung penerapan e-Government, telah dilakukan inventarisasi dan evaluasi terhadap Standar Operasional Prosedur (SOP) yang berlaku di lingkungan KPU Kabupaten Pacitan."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Pembaruan SOP Tahun 2026 belum semuanya ditetapkan dan dipublikasikan. Kondisi ini menyebabkan SOP yang berlaku belum dapat dijadikan acuan secara menyeluruh dalam penerapan e-Government di lingkungan KPU Kabupaten Pacitan."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Peningkatan penerapan e-Government dilakukan melalui pelaksanaan penetapan dan sosialisasi SOP. Penetapan SOP hasil pembaruan akan segera ditindaklanjuti, kemudian disosialisasikan agar SOP dapat dipahami dan diterapkan secara konsisten dalam mendukung penerapan e-Government."
+      }
+     ]
+    }
+   },
+   "32": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sepanjang Triwulan III, telah dilakukan pemeliharaan atas peralatan IT yang tersedia."
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Anggaran pengadaan peralatan IT semakin terbatas, sementara sebagian perangkat sudah lama digunakan dan perlu pemeliharaan/peremajaan"
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, perlu dilakukan penyusunan usulan kebutuhan sarana dan prasarana IT prioritas berdasarkan hasil pendataan kelayakan. Usulan disusun dengan mempertimbangkan kondisi perangkat yang ada, sehingga pemeliharaan dan peremajaan dapat diarahkan pada kebutuhan yang paling mendesak sesuai keterbatasan anggaran."
+      }
+     ]
+    }
+   },
+   "33": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya yang telah dilakukan untuk mecapai target kinerja, yakni:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Mewajibkan pegawai untuk memiliki sertifikat pelatihan dengan menetapkan jumlah minimal kepemilikan sertifikat maupun Jam Pelatihan",
+        "Mendorong dan memotivasi pegawai untuk mengikuti pelatihan peningkatan kompetensi berbasis e-learning melalui aplikasi yang tersedia."
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kendala dalam peningkatan kompetensi SDM di lingkungan KPU Kabupaten Pacitan terletak pada masih minimnya kesadaran pegawai terhadap pentingnya pengembangan kompetensi. Hal ini berdampak pada kurang optimalnya upaya peningkatan wawasan dan keterampilan yang seharusnya menjadi kebutuhan dasar dalam mendukung pelaksanaan tugas. Selain itu, belum adanya kewajiban atau prasyarat formal berupa sertifikat pelatihan dalam pengurusan kenaikan gaji berkala maupun kenaikan pangkat reguler turut menyebabkan dorongan bagi pegawai untuk mengikuti pelatihan belum kuat."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, akan dilakukan identifikasi terhadap pegawai yang telah melakukan pelatihan dengan menginventarisasi sertifikat hasil pelatihan. Selain itu, akan ditetapkan batas minimal kepemilikan sertifikat pelatihan dan Jam Pelatihan (JP) untuk masing-masing pegawai, sehingga peningkatan kompetensi dapat dipantau dan berlangsung secara berkelanjutan."
+      }
+     ]
+    }
+   },
+   "34": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mendukung pemanfaatan dan operasional sistem informasi Pemilu dan Pemilihan, telah dilakukan upaya sebagai berikut:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Pemetaan dukungan biaya operasional pada penggunaan sistem chatbot cek DPT PDPB dan aplikasi lain",
+        "Melakukan pemantauan terhadap akses dan operasional sistem informasi yang digunakan"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kinerja akses sistem informasi Pemilu dan Pemilihan banyak bergantung pada kondisi server pusat, sehingga pada waktu tertentu terjadi kendala akses dan dapat mengganggu kelancaran operasional."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sebagai tindak lanjut, KPU Kabupaten Pacitan akan meningkatkan koordinasi dengan pengelola sistem apabila terjadi gangguan atau kendala akses, agar penanganan dapat dilakukan dengan cepat. Selain itu, akan diberikan dukungan operasional pada sistem informasi yang digunakan sehingga pemanfaatan sistem informasi Pemilu dan Pemilihan tetap berjalan lancar."
+      }
+     ]
+    }
+   },
+   "35": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Selama Triwulan III, telah dilaksanakan kegiatan yang mendukung capaian kegiatan, diantaranya:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Rapat koordinasi antara KPU dengan Stakeholder terkait pendataan DPT Berkelanjutan (Disdukcapil, Polres, Kodim, Rutan, dll)",
+        "Melaksanakan Coktas Triwulan III dengan metode sampling, dan faktual sampai ke kantor Desa/Kelurahan",
+        "Melakukan update data pemilih pada aplikasi SIDALIH"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Dalam mengelola data pemilih, kendala muncul pada lambatnya respon operator SIDALIH pada satuan kerja lain dalam proses verifikasi data pemilih ganda. Kondisi ini mempengaruhi kecepatan pengolahan data pemilih, karena penyelesaian data ganda sangat bergantung pada tindak lanjut dari operator satuan kerja yang bersinggungan. Di samping itu, penajaman anggaran turut berdampak pada pelaksanaan kegiatan Coktas, sehingga kegiatan tersebut tidak dapat dilaksanakan secara menyeluruh pada semua kecamatan dan dilakukan dengan metode sampling."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Upaya peningkatan kinerja dilakukan melalui optimalisasi koordinasi dan komunikasi secara berkala dengan stakeholder terkait agar perolehan data pemilih berjalan lancar. Selain itu, akan dibangun komunikasi yang lebih baik dengan Admin/Operator SIDALIH dari KPU Kab/Kota untuk memudahkan verifikasi pada saat terjadi tabrak data."
+      }
+     ]
+    }
+   },
+   "36": {
+    "kegiatan": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Kegiatan yang telah terlaksana dalam mendukung capaian target indikator Presentase pendataan DPT berkelanjutan bersama pihak terkait, yakni:"
+      },
+      {
+       "t": "list",
+       "gaya": "huruf",
+       "items": [
+        "Koordinasi intensif dengan Disdukcapil selaku stakeholder data kependudukan",
+        "Rapat koordinasi PDPB dengan Bawaslu",
+        "Menyelenggarakan Kegiatan Rapat Pleno Terbuka Penetapan Hasil Rekapitulasi Data Pemilih Berkelanjutan per Triwulan dengan mengundang dengan pihak terkait",
+        "Menindaklanjuti imbauan dan saran perbaikan dari Bawaslu"
+       ]
+      }
+     ]
+    },
+    "kendala": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Sampai dengan periode pelaporan, tidak terdapat kendala dalam pelaksanaan pendataan DPT berkelanjutan bersama pihak terkait. Koordinasi dengan stakeholder berjalan lancar, dan seluruh tahapan kegiatan dapat dilaksanakan sesuai rencana sehingga target kinerja pada sasaran ini dapat terpenuhi."
+      }
+     ]
+    },
+    "upaya": {
+     "blocks": [
+      {
+       "t": "p",
+       "text": "Koordinasi dan komunikasi secara berkala dengan stakeholder akan terus dijaga untuk memperoleh data yang mutakhir dan tepat waktu. Pola koordinasi yang sudah berjalan baik, termasuk dengan Disdukcapil, Rutan, dan Bawaslu, akan dipertahankan agar pendataan DPT berkelanjutan tetap berjalan tertib dan akuntabel."
+      }
+     ]
+    }
+   }
+  }
+ },
+ "sampul": {
+  "KPU": null,
+  "SEK": null
+ }
+}
